@@ -1,0 +1,696 @@
+respondentID	MinDebtAtGrad	MaxDebtAtGrad	HadDebtAtGrad	MHI	gender	HappyWithLife	MostImportant	graduated	AgeAtGrad	IsMarriedOrNot	SpouseOccupation	HasChildren	NumberChildren	Year1stChildCame	AgeAt1stChild	GradToChild	OwnsHome	OwnsPractice	StartedPracOwn	AgeAtOwn	GradToOwn
+1	ID3562342993	0	0	no	88563	male	yes	faith	1962	28	married	other	yes	4	1965	31	3	yes	no	NA	NA	NA
+2	ID3512170047	0	76300	yes	64765	male	 	 	1963	29	married	professional	yes	4	1968	34	5	yes	no	NA	NA	NA
+3	ID3552158129	0	69900	yes	53725	male	 	 	1967	29	married	professional	yes	5	NA	NA	NA	yes	yes	1970	32	3
+4	ID3520455187	0	0	no	194211	male	yes	family	1967	25	married	other	yes	2	1970	28	3	yes	no	NA	NA	NA
+5	ID3520910585	0	0	no	71767	male	yes	family	1970	25	married	professional	yes	2	1967	22	-3	yes	no	NA	NA	NA
+6	ID3520383437	0	57500	yes	107705	male	yes and no	faith	1971	23	married	veterinarian	yes	2	1979	31	8	no	yes	1994	46	23
+7	ID3520258037	0	57500	yes	151090	male	yes	career	1971	26	married	homemaker	yes	1	1976	31	5	yes	no	NA	NA	NA
+8	ID3560714894	0	0	no	52370	male	yes	family	1972	25	married	homemaker	yes	4	1974	27	2	yes	yes	1973	26	1
+9	ID3520402603	0	55900	yes	101198	male	yes	career	1972	23	married	nonveterinarian	yes	4	1972	23	0	yes	yes	1981	32	9
+10	ID3561733441	0	55900	yes	54824	male	yes	family	1972	25	married	other	yes	3	1974	27	2	yes	yes	2003	56	31
+11	ID3551706699	0	52400	yes	48079	male	yes	self	1973	24	married	professional	yes	2	1974	25	1	yes	yes	1974	25	1
+12	ID3518694374	0	52400	yes	62201	male	no	family	1973	26	married	nonprofessional	yes	2	1976	29	3	yes	yes	1980	33	7
+13	ID3575850321	47200	235800	yes	63551	male	yes and no	faith	1974	25	married	nonveterinarian	yes	3	1971	22	-3	yes	yes	1975	26	1
+14	ID3563109595	0	0	no	57039	male	yes	career	1974	24	married	nonprofessional	yes	3	1976	26	2	yes	yes	1975	25	1
+15	ID3583085869	0	47200	yes	100961	male	yes and no	family	1974	27	married	veterinarian	yes	4	1972	25	-2	no	yes	1977	30	3
+16	ID3562248633	47200	235800	yes	65114	male	yes	faith	1974	26	married	veterinarian	yes	2	1974	26	0	yes	yes	1983	35	9
+17	ID3514587558	0	0	no	77924	male	 	 	1974	32	married	professional	yes	4	1974	32	0	yes	no	NA	NA	NA
+18	ID3637726795	0	0	no	46884	female	yes	family	1974	25	unmarried	 	yes	4	1975	26	1	yes	no	NA	NA	NA
+19	ID3522414964	0	47200	yes	70383	male	yes	faith	1974	25	married	other	yes	3	1978	29	4	yes	no	NA	NA	NA
+20	ID3509389895	0	0	no	NA	male	 	 	1974	24	married	nonveterinarian	 	NA	NA	NA	NA	yes	yes	NA	NA	NA
+21	ID3522725087	47200	235800	yes	103688	female	yes	family	1974	26	married	professional	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+22	ID3584788005	0	0	no	58676	female	yes	faith	1975	24	married	veterinarian	yes	2	1983	32	8	yes	yes	1975	24	0
+23	ID3563527036	43300	216500	yes	67965	male	yes	family	1975	25	unmarried	 	yes	3	1977	27	2	yes	yes	1976	26	1
+24	ID3562404186	0	43300	yes	30721	male	yes	faith	1975	25	married	homemaker	yes	4	1978	28	3	yes	yes	1976	26	1
+25	ID3511097258	0	43300	yes	49498	male	yes	faith	1975	25	married	homemaker	yes	4	NA	NA	NA	yes	yes	1978	28	3
+26	ID3575929054	0	0	no	49881	male	yes and no	career	1975	24	married	other	yes	2	1979	28	4	yes	yes	1984	33	9
+27	ID3520222164	204900	409800	yes	171175	male	yes	family	1976	25	married	veterinarian	yes	4	1979	28	3	yes	yes	1979	28	3
+28	ID3510076677	0	0	no	68306	female	yes	family	1976	23	married	nonprofessional	yes	4	NA	NA	NA	yes	yes	1980	27	4
+29	ID3561872426	0	0	no	75196	male	yes	family	1977	25	married	professional	yes	3	1982	30	5	yes	yes	1980	28	3
+30	ID3524694914	0	0	no	79178	female	yes	family	1977	25	unmarried	 	yes	1	1992	40	15	yes	yes	1997	45	20
+31	ID3547796099	38500	192300	yes	35724	male	yes	family	1977	32	married	other	yes	3	1963	18	-14	yes	no	NA	NA	NA
+32	ID3559442743	0	0	no	35724	male	yes and no	career	1977	24	married	veterinarian	yes	3	1986	33	9	yes	no	NA	NA	NA
+33	ID3512410674	38500	192300	yes	87347	male	 	 	1977	29	married	homemaker	 	NA	NA	NA	NA	yes	yes	NA	NA	NA
+34	ID3523784676	38500	192300	yes	86765	female	yes	self	1977	24	married	nonprofessional	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+35	ID3552805932	0	0	no	69949	male	yes	family	1978	27	married	veterinarian	yes	5	1987	36	9	yes	yes	1979	28	1
+36	ID3520327244	0	0	no	104173	male	yes	family	1978	25	married	homemaker	yes	4	1979	26	1	yes	yes	1981	28	3
+37	ID3536145643	0	0	no	99509	female	yes	family	1978	25	married	other	yes	3	1984	31	6	yes	yes	1986	33	8
+38	ID3535965287	0	0	no	NA	female	yes and no	self	1978	28	unmarried	 	no	NA	NA	NA	NA	yes	yes	1997	47	19
+39	ID3520808013	0	0	no	74745	female	yes	self	1978	23	married	professional	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+40	ID3561760566	32100	160300	yes	NA	male	yes	faith	1979	28	married	nonprofessional	yes	3	1979	28	0	yes	yes	1980	29	1
+41	ID3548309261	0	32100	yes	95066	male	yes	self	1979	25	married	other	yes	3	1995	41	16	yes	yes	1980	26	1
+42	ID3557422834	0	32100	yes	114609	female	yes	family	1979	26	married	other	yes	2	1981	28	2	yes	yes	1981	28	2
+43	ID3557374038	0	32100	yes	80600	female	yes	family	1979	24	married	other	yes	2	1981	26	2	yes	no	NA	NA	NA
+44	ID3583638982	0	28200	yes	100608	female	yes	self	1980	24	unmarried	 	yes	2	1990	34	10	yes	yes	1992	36	12
+45	ID3551675875	0	28200	yes	54895	female	yes	faith	1980	26	married	other	no	NA	NA	NA	NA	yes	yes	1997	43	17
+46	ID3565343934	0	0	no	51611	male	yes and no	family	1980	25	married	other	yes	2	1996	41	16	yes	yes	2011	56	31
+47	ID3549854673	25600	128200	yes	81050	male	yes	family	1981	25	married	other	yes	5	1986	30	5	yes	yes	1983	27	2
+48	ID3547981706	25600	128200	yes	94613	male	yes	family	1981	25	married	nonprofessional	yes	6	1974	18	-7	yes	yes	1984	28	3
+49	ID3524095088	0	25600	yes	66379	male	yes	faith	1981	28	married	professional	yes	3	1981	28	0	yes	no	NA	NA	NA
+50	ID3509300682	0	25600	yes	78593	female	yes	family	1981	26	married	professional	yes	1	1994	39	13	yes	no	NA	NA	NA
+51	ID3562787770	0	24200	yes	79976	male	yes	family	1982	28	married	professional	yes	5	1984	30	2	yes	yes	1982	28	0
+52	ID3572354072	0	24200	yes	63702	male	yes	career	1982	27	married	other	yes	3	1983	28	1	yes	yes	1985	30	3
+53	ID3508718420	0	24200	yes	74086	female	yes	family	1982	26	unmarried	 	yes	3	1997	41	15	yes	yes	1986	30	4
+54	ID3520884808	24200	120800	yes	135751	male	yes	career	1982	25	married	nonprofessional	yes	1	1997	40	15	yes	yes	1988	31	6
+55	ID3510720830	24200	120800	yes	60718	female	yes	family	1982	31	unmarried	 	yes	1	1990	39	8	yes	yes	1990	39	8
+56	ID3666145031	24200	120800	yes	120936	female	yes	family	1982	24	married	professional	yes	1	1992	34	10	yes	yes	1993	35	11
+57	ID3511527547	0	0	no	58484	female	yes	family	1982	25	married	professional	yes	2	1984	27	2	yes	yes	2001	44	19
+58	ID3529890154	0	24200	yes	53387	female	yes	faith	1982	24	married	other	yes	3	1984	26	2	yes	no	NA	NA	NA
+59	ID3535124977	24200	120800	yes	116969	female	yes	family	1982	29	married	other	yes	1	1985	32	3	yes	no	NA	NA	NA
+60	ID3592294631	23400	116800	yes	44687	female	yes	faith	1983	27	unmarried	 	yes	2	1987	31	4	yes	yes	1984	28	1
+61	ID3561876391	116800	233600	yes	50074	male	yes	family	1983	27	married	homemaker	yes	4	1983	27	0	yes	yes	1987	31	4
+62	ID3548323831	23400	116800	yes	67316	male	yes	family	1983	25	married	professional	yes	2	1986	28	3	yes	yes	1987	29	4
+63	ID3546467818	23400	116800	yes	89552	female	yes	family	1983	29	married	nonprofessional	yes	1	1992	38	9	yes	yes	1987	33	4
+64	ID3576223853	23400	116800	yes	67910	male	yes	family	1983	27	married	nonveterinarian	yes	3	1992	36	9	yes	yes	1987	31	4
+65	ID3551543999	0	0	no	83191	male	yes	career	1983	27	married	homemaker	yes	3	1988	32	5	yes	yes	1990	34	7
+66	ID3580586914	23400	116800	yes	78917	female	yes and no	family	1983	25	married	professional	yes	2	1987	29	4	yes	yes	1996	38	13
+67	ID3517572293	0	0	no	114294	female	yes and no	family	1983	27	unmarried	 	yes	1	1988	32	5	yes	no	NA	NA	NA
+68	ID3664286039	0	23400	yes	84235	female	yes	family	1983	25	married	professional	yes	3	1992	34	9	yes	no	NA	NA	NA
+69	ID3508676245	0	0	no	96712	male	 	 	1983	26	unmarried	 	yes	1	2008	51	25	yes	no	NA	NA	NA
+70	ID3519837768	0	0	no	92345	female	yes and no	self	1983	25	married	other	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+71	ID3523466454	0	0	no	62063	female	yes	family	1983	25	married	other	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+72	ID3558215221	0	23400	yes	51302	male	yes	career	1983	25	married	nonprofessional	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+73	ID3513037795	22400	112100	yes	62585	female	no	family	1984	26	married	nonprofessional	yes	2	1989	31	5	yes	yes	1984	26	0
+74	ID3509178608	112100	224200	yes	87046	female	yes	family	1984	30	married	nonprofessional	yes	9	1976	22	-8	yes	yes	1985	31	1
+75	ID3510967993	22400	112100	yes	61079	male	yes	faith	1984	27	married	nonprofessional	yes	4	NA	NA	NA	yes	yes	1985	28	1
+76	ID3557170958	0	0	no	70823	male	yes and no	family	1984	26	married	veterinarian	yes	2	1988	30	4	yes	yes	1988	30	4
+77	ID3631788919	112100	224200	yes	39548	female	yes and no	career	1984	34	unmarried	 	no	NA	NA	NA	NA	yes	yes	1989	39	5
+78	ID3557557264	22400	112100	yes	79770	male	yes	family	1984	26	married	professional	yes	2	1989	31	5	yes	yes	1992	34	8
+79	ID3533879946	224200	448400	yes	53934	female	yes	self	1984	29	married	nonprofessional	yes	4	1976	21	-8	yes	no	NA	NA	NA
+80	ID3513108920	0	22400	yes	70909	female	yes	family	1984	26	married	professional	yes	2	1989	31	5	yes	no	NA	NA	NA
+81	ID3561801008	22400	112100	yes	70383	female	yes and no	family	1984	26	married	nonprofessional	yes	4	1989	31	5	yes	no	NA	NA	NA
+82	ID3563872723	21600	108200	yes	58383	male	yes and no	family	1985	25	married	nonveterinarian	yes	1	1990	30	5	yes	yes	1986	26	1
+83	ID3511076025	21600	108200	yes	48511	female	yes	family	1985	27	married	veterinarian	yes	2	1989	31	4	yes	yes	1987	29	2
+84	ID3549112499	21600	108200	yes	65158	male	yes	family	1985	27	married	homemaker	yes	2	1985	27	0	yes	yes	1988	30	3
+85	ID3553662503	21600	108200	yes	85584	male	yes and no	family	1985	30	married	homemaker	yes	2	1989	34	4	yes	yes	1988	33	3
+86	ID3508629056	21600	108200	yes	74493	female	yes	family	1985	25	married	nonprofessional	yes	2	1991	31	6	yes	yes	1991	31	6
+87	ID3536147071	21600	108200	yes	63030	female	yes and no	faith	1985	27	unmarried	 	yes	1	1997	39	12	yes	yes	1997	39	12
+88	ID3514910173	21600	108200	yes	54818	male	yes and no	career	1985	25	married	professional	yes	3	1985	25	0	yes	yes	2005	45	20
+89	ID3549079783	0	21600	yes	51418	female	yes	faith	1985	31	married	nonprofessional	yes	1	1990	36	5	yes	yes	2013	59	28
+90	ID3523419719	0	0	no	63357	female	yes and no	family	1985	26	unmarried	 	yes	1	1993	34	8	yes	no	NA	NA	NA
+91	ID3527293244	0	0	no	78170	female	yes	faith	1985	26	unmarried	 	yes	1	1998	39	13	yes	no	NA	NA	NA
+92	ID3508557366	21600	108200	yes	105107	female	yes	faith	1985	28	married	other	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+93	ID3563403404	21600	108200	yes	51020	male	 	 	1985	29	unmarried	 	 	NA	NA	NA	NA	yes	yes	NA	NA	NA
+94	ID3509260505	21300	106400	yes	131761	male	yes and no	career	1986	31	unmarried	 	yes	2	1994	39	8	yes	yes	1987	32	1
+95	ID3522589172	106400	212800	yes	60357	female	yes	faith	1986	33	married	veterinarian	no	NA	NA	NA	NA	yes	yes	1987	34	1
+96	ID3551193148	21300	106400	yes	60662	male	yes	career	1986	25	married	veterinarian	yes	3	1995	34	9	yes	yes	1989	28	3
+97	ID3511837315	0	0	no	79059	female	yes	career	1986	25	married	nonprofessional	no	NA	NA	NA	NA	yes	yes	1989	28	3
+98	ID3535993952	21300	106400	yes	55561	female	yes	self	1986	26	unmarried	 	yes	3	1989	29	3	yes	yes	1991	31	5
+99	ID3509017573	21300	106400	yes	134407	male	yes	family	1986	31	married	other	yes	2	1988	33	2	yes	yes	1992	37	6
+100	ID3509388455	0	21300	yes	72862	female	yes	family	1986	30	married	nonprofessional	yes	1	1991	35	5	yes	yes	2013	57	27
+101	ID3524384387	0	0	no	71301	female	yes	faith	1986	26	married	nonprofessional	yes	1	1989	29	3	yes	no	NA	NA	NA
+102	ID3514263496	0	21300	yes	125502	male	yes and no	family	1986	28	married	nonprofessional	yes	2	1994	36	8	yes	no	NA	NA	NA
+103	ID3522370582	21300	106400	yes	194424	female	yes	self	1986	26	unmarried	 	yes	3	1995	35	9	yes	no	NA	NA	NA
+104	ID3575774248	0	21300	yes	103527	male	 	 	1986	26	married	veterinarian	 	NA	NA	NA	NA	yes	yes	NA	NA	NA
+105	ID3547688147	20500	102500	yes	55630	male	yes and no	faith	1987	26	married	other	yes	4	1991	30	4	yes	yes	1989	28	2
+106	ID3551705293	20500	102500	yes	48511	male	yes	family	1987	27	married	homemaker	yes	3	1992	32	5	yes	yes	1990	30	3
+107	ID3536277149	20500	102500	yes	71454	female	yes	family	1987	27	married	veterinarian	yes	3	1991	31	4	yes	yes	1994	34	7
+108	ID3582120719	0	0	no	55606	male	yes	faith	1987	26	married	homemaker	yes	2	1991	30	4	yes	yes	1994	33	7
+109	ID3511029038	0	0	no	63586	female	yes and no	family	1987	23	married	professional	yes	2	1995	31	8	yes	yes	2005	41	18
+110	ID3535866743	102500	204900	yes	69792	female	yes	family	1987	32	unmarried	 	yes	3	1980	25	-7	yes	no	NA	NA	NA
+111	ID3542112546	204900	409800	yes	85373	female	yes	family	1987	27	married	other	yes	2	1990	30	3	yes	no	NA	NA	NA
+112	ID3523393368	102500	204900	yes	NA	female	yes	faith	1987	29	married	homemaker	yes	2	1992	34	5	yes	no	NA	NA	NA
+113	ID3547514142	20500	102500	yes	56578	female	yes and no	self	1987	27	married	nonprofessional	yes	2	1994	34	7	yes	no	NA	NA	NA
+114	ID3562675775	20500	102500	yes	56786	male	yes	faith	1987	26	married	homemaker	yes	3	1994	33	7	yes	no	NA	NA	NA
+115	ID3529876663	102500	204900	yes	69167	female	yes and no	faith	1987	28	unmarried	 	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+116	ID3533980816	0	0	no	72198	female	yes	self	1987	23	married	nonveterinarian	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+117	ID3552284654	0	20500	yes	88054	male	yes	family	1987	28	married	nonveterinarian	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+118	ID3517640740	0	0	no	62080	male	 	 	1988	25	married	nonprofessional	yes	1	NA	NA	NA	yes	yes	1989	26	1
+119	ID3509308171	0	0	no	61032	female	yes	faith	1988	27	married	other	yes	7	2004	43	16	yes	yes	1992	31	4
+120	ID3588355259	0	0	no	243352	male	yes and no	family	1988	25	married	homemaker	yes	3	1995	32	7	yes	yes	1994	31	6
+121	ID3552181684	0	19700	yes	56585	male	yes	family	1988	28	married	nonprofessional	yes	2	1994	34	6	yes	yes	1996	36	8
+122	ID3550790145	393700	590600	yes	75858	female	yes	family	1988	31	married	other	yes	1	2002	45	14	yes	yes	1997	40	9
+123	ID3557890436	18800	94000	yes	68279	male	yes	family	1989	27	married	veterinarian	yes	2	1988	26	-1	yes	yes	1991	29	2
+124	ID3560153001	0	18800	yes	37582	female	yes	faith	1989	26	married	nonveterinarian	yes	2	1991	28	2	yes	yes	1991	28	2
+125	ID3522065653	0	18800	yes	140288	male	yes	family	1989	27	married	veterinarian	yes	2	1993	31	4	yes	yes	1991	29	2
+126	ID3551428739	0	0	no	57460	male	yes and no	faith	1989	25	married	nonprofessional	yes	2	1991	27	2	yes	yes	1992	28	3
+127	ID3549705303	18800	94000	yes	69376	male	yes	family	1989	27	married	professional	yes	3	2001	39	12	yes	yes	2001	39	12
+128	ID3537273886	18800	94000	yes	62438	female	yes and no	family	1989	26	married	other	yes	4	1996	33	7	yes	yes	2007	44	18
+129	ID3508621195	18800	94000	yes	152673	female	yes	family	1989	28	married	veterinarian	yes	6	1990	29	1	no	no	NA	NA	NA
+130	ID3548853540	0	18800	yes	60553	male	yes	faith	1989	29	married	homemaker	yes	2	1990	30	1	yes	no	NA	NA	NA
+131	ID3533443724	94000	188000	yes	52002	female	yes	family	1989	31	married	other	yes	1	1992	34	3	yes	no	NA	NA	NA
+132	ID3557331921	18800	94000	yes	58244	female	yes and no	family	1989	25	married	professional	yes	4	1992	28	3	yes	no	NA	NA	NA
+133	ID3514384612	18800	94000	yes	64909	female	yes and no	family	1989	27	married	homemaker	yes	2	1994	32	5	yes	no	NA	NA	NA
+134	ID3522644732	18800	94000	yes	118865	female	yes	family	1989	27	married	veterinarian	yes	2	1998	36	9	yes	no	NA	NA	NA
+135	ID3558089073	0	0	no	192845	male	yes and no	career	1990	28	married	professional	no	NA	NA	NA	NA	no	yes	1990	28	0
+136	ID3522773757	0	17800	yes	121339	male	yes	faith	1990	29	married	nonveterinarian	yes	3	1988	27	-2	yes	yes	1994	33	4
+137	ID3520230387	17800	89100	yes	143910	male	yes	family	1990	26	married	veterinarian	yes	2	1998	34	8	yes	yes	1995	31	5
+138	ID3533335405	89100	178300	yes	112663	female	yes	self	1990	31	married	nonprofessional	yes	2	1991	32	1	yes	yes	1996	37	6
+139	ID3575869692	89100	178300	yes	112663	female	yes	self	1990	31	married	nonprofessional	yes	2	1991	32	1	yes	yes	1996	37	6
+140	ID3508619449	17800	89100	yes	68027	female	yes and no	family	1990	28	married	professional	yes	3	1993	31	3	yes	yes	2001	39	11
+141	ID3509586845	0	0	no	91859	female	yes	family	1990	28	married	homemaker	yes	2	1992	30	2	yes	yes	2002	40	12
+142	ID3524633057	0	0	no	85319	female	yes	family	1990	22	married	professional	yes	1	1991	23	1	yes	no	NA	NA	NA
+143	ID3522366733	0	0	no	209546	female	yes	family	1990	25	married	professional	yes	1	1993	28	3	yes	no	NA	NA	NA
+144	ID3596711340	17800	89100	yes	121310	female	yes and no	family	1990	26	married	nonprofessional	yes	2	1995	31	5	yes	no	NA	NA	NA
+145	ID3552296821	0	17800	yes	77241	female	 	 	1990	25	married	veterinarian	yes	2	1999	34	9	yes	no	NA	NA	NA
+146	ID3520284115	89100	178300	yes	91219	female	yes	faith	1990	27	married	professional	yes	2	2001	38	11	yes	no	NA	NA	NA
+147	ID3509260128	17800	89100	yes	53188	female	 	 	1990	26	married	nonprofessional	 	NA	NA	NA	NA	yes	yes	NA	NA	NA
+148	ID3523616699	85500	170900	yes	72461	male	yes	family	1991	26	married	professional	yes	1	1995	30	4	yes	yes	1994	29	3
+149	ID3517293329	170900	341900	yes	79124	female	yes and no	family	1991	27	married	professional	yes	1	2004	40	13	yes	yes	1995	31	4
+150	ID3587217501	17100	85500	yes	88536	female	yes and no	family	1991	26	married	veterinarian	yes	1	2002	37	11	yes	yes	1998	33	7
+151	ID3554208752	85500	170900	yes	115127	female	yes and no	family	1991	29	married	nonprofessional	yes	1	1997	35	6	yes	yes	2001	39	10
+152	ID3526075262	0	0	no	96448	female	no	family	1991	25	married	professional	yes	2	1995	29	4	yes	no	NA	NA	NA
+153	ID3508918797	85500	170900	yes	131083	female	yes and no	family	1991	35	married	veterinarian	yes	2	1996	40	5	yes	no	NA	NA	NA
+154	ID3520295301	85500	170900	yes	179900	female	yes and no	self	1991	27	married	nonprofessional	yes	1	2006	42	15	yes	no	NA	NA	NA
+155	ID3560675269	0	0	no	73484	male	yes	faith	1991	25	unmarried	 	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+156	ID3512162234	83100	166100	yes	116665	female	yes and no	family	1992	28	unmarried	 	yes	2	1995	31	3	yes	yes	1993	29	1
+157	ID3563979319	16600	83100	yes	49849	male	yes	family	1992	25	married	homemaker	yes	2	1993	26	1	yes	yes	1994	27	2
+158	ID3511058902	16600	83100	yes	184387	female	yes and no	family	1992	29	married	nonprofessional	yes	2	2004	41	12	yes	yes	1996	33	4
+159	ID3592034091	16600	83100	yes	85687	male	yes	faith	1992	26	married	veterinarian	yes	3	1997	31	5	yes	yes	1997	31	5
+160	ID3509324584	16600	83100	yes	91771	male	yes	family	1992	24	married	veterinarian	yes	3	2000	32	8	yes	yes	1998	30	6
+161	ID3511571773	16600	83100	yes	92345	female	yes	family	1992	27	married	nonprofessional	yes	3	1997	32	5	yes	yes	2000	35	8
+162	ID3583679753	16600	83100	yes	62129	female	yes	family	1992	26	married	professional	yes	1	2002	36	10	yes	yes	2002	36	10
+163	ID3511306737	16600	83100	yes	103949	male	yes and no	family	1992	28	married	nonveterinarian	yes	3	2002	38	10	yes	yes	2003	39	11
+164	ID3515483302	166100	332200	yes	49588	female	yes	self	1992	28	married	nonprofessional	yes	2	1998	34	6	yes	yes	2012	48	20
+165	ID3512251261	83100	166100	yes	86870	female	yes	family	1992	28	married	nonprofessional	yes	2	1995	31	3	yes	no	NA	NA	NA
+166	ID3545857503	16600	83100	yes	134741	female	yes	family	1992	25	married	nonprofessional	yes	1	1999	32	7	yes	no	NA	NA	NA
+167	ID3530109811	16600	83100	yes	78364	female	yes	family	1992	32	married	nonprofessional	yes	1	2000	40	8	yes	no	NA	NA	NA
+168	ID3520248855	0	0	no	105775	male	yes	family	1993	25	married	other	yes	2	1999	31	6	yes	yes	1996	28	3
+169	ID3511409716	16100	80600	yes	83698	male	yes	community	1993	29	married	veterinarian	yes	2	2001	37	8	yes	yes	1997	33	4
+170	ID3508574363	0	0	no	94744	female	yes	family	1993	30	married	other	yes	1	2005	42	12	yes	yes	2000	37	7
+171	ID3511211193	0	0	no	91754	female	yes	family	1993	25	married	nonprofessional	yes	3	2002	34	9	yes	yes	2002	34	9
+172	ID3508760204	80600	161300	yes	95681	female	yes and no	family	1993	26	married	homemaker	yes	1	2003	36	10	yes	yes	2002	35	9
+173	ID3519879851	16100	80600	yes	32729	male	yes and no	family	1993	27	married	other	yes	3	2004	38	11	yes	yes	2004	38	11
+174	ID3511879734	16100	80600	yes	83291	female	yes	family	1993	25	married	homemaker	yes	2	2000	32	7	yes	yes	2014	46	21
+175	ID3525665452	80600	161300	yes	83098	female	yes and no	family	1993	27	married	professional	yes	2	1997	31	4	yes	no	NA	NA	NA
+176	ID3546113283	0	16100	yes	100003	female	yes and no	faith	1993	26	unmarried	 	yes	2	1997	30	4	yes	no	NA	NA	NA
+177	ID3670168721	0	0	no	91553	female	yes	family	1993	29	married	nonprofessional	yes	1	1998	34	5	yes	no	NA	NA	NA
+178	ID3513437179	16100	80600	yes	81611	female	yes	family	1993	28	married	nonprofessional	yes	2	2001	36	8	yes	no	NA	NA	NA
+179	ID3510253389	16100	80600	yes	69798	female	yes	family	1993	33	married	nonprofessional	yes	4	2005	45	12	yes	no	NA	NA	NA
+180	ID3521249303	0	0	no	145416	female	yes and no	family	1993	27	married	other	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+181	ID3575835561	161300	322600	yes	54291	male	yes and no	self	1993	32	unmarried	 	no	NA	NA	NA	NA	no	no	NA	NA	NA
+182	ID3545205809	15700	78600	yes	61726	female	yes	family	1994	25	married	nonprofessional	yes	2	1997	28	3	yes	yes	1995	26	1
+183	ID3511284987	0	0	no	51655	female	yes	family	1994	26	married	nonprofessional	yes	4	NA	NA	NA	yes	yes	1995	27	1
+184	ID3524973014	0	0	no	85410	female	yes	family	1994	35	married	veterinarian	yes	2	1997	38	3	yes	yes	1997	38	3
+185	ID3590805111	0	0	no	100003	male	yes	faith	1994	26	married	nonprofessional	yes	2	1997	29	3	yes	yes	1998	30	4
+186	ID3517486053	15700	78600	yes	48968	female	yes	family	1994	26	married	other	yes	2	2001	33	7	yes	yes	1999	31	5
+187	ID3521624891	15700	78600	yes	NA	female	yes	self	1994	30	married	nonveterinarian	no	NA	NA	NA	NA	yes	yes	2000	36	6
+188	ID3523545834	78600	157200	yes	67454	female	yes	family	1994	27	married	nonprofessional	no	NA	NA	NA	NA	yes	yes	2000	33	6
+189	ID3536187031	78600	157200	yes	55656	female	yes	faith	1994	26	married	professional	yes	2	2000	32	6	yes	yes	2007	39	13
+190	ID3522804088	15700	78600	yes	50374	female	yes	family	1994	38	married	professional	yes	1	2000	44	6	yes	no	NA	NA	NA
+191	ID3511712452	78600	157200	yes	84647	female	yes and no	family	1994	26	unmarried	 	yes	3	2001	33	7	yes	no	NA	NA	NA
+192	ID3524750184	15700	78600	yes	72860	female	yes	family	1994	25	married	nonprofessional	yes	2	2008	39	14	yes	no	NA	NA	NA
+193	ID3520247207	15700	78600	yes	95674	female	yes and no	self	1994	39	unmarried	 	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+194	ID3521678290	0	0	no	87046	female	yes	self	1994	26	married	veterinarian	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+195	ID3526173661	0	0	no	144006	female	yes and no	self	1994	26	married	other	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+196	ID3526222680	0	0	no	NA	male	yes	family	1995	22	married	professional	yes	4	1997	24	2	yes	yes	1996	23	1
+197	ID3522297683	76500	152900	yes	144347	female	yes and no	career	1995	25	married	nonveterinarian	yes	1	2004	34	9	yes	yes	1996	26	1
+198	ID3546809421	15300	76500	yes	68279	male	yes	family	1995	26	married	veterinarian	yes	1	2011	42	16	yes	yes	1996	27	1
+199	ID3546407673	76500	152900	yes	76050	female	yes and no	family	1995	41	married	veterinarian	yes	4	1976	22	-19	yes	yes	1997	43	2
+200	ID3546423170	76500	152900	yes	55879	male	yes	family	1995	26	married	homemaker	yes	4	1999	30	4	yes	yes	1997	28	2
+201	ID3509161251	0	0	no	118931	female	yes and no	family	1995	26	married	veterinarian	yes	3	1998	29	3	yes	yes	1999	30	4
+202	ID3578635811	76500	152900	yes	86112	female	yes	self	1995	26	married	other	yes	2	2005	36	10	yes	yes	1999	30	4
+203	ID3543784983	152900	305800	yes	61925	female	yes	family	1995	24	married	professional	yes	2	1998	27	3	yes	yes	2000	29	5
+204	ID3575742081	0	15300	yes	88134	female	yes	self	1995	28	married	nonprofessional	yes	2	2000	33	5	yes	yes	2000	33	5
+205	ID3528485571	15300	76500	yes	70457	female	yes	faith	1995	25	married	other	yes	2	2001	31	6	yes	yes	2001	31	6
+206	ID3517206722	15300	76500	yes	51088	female	yes	faith	1995	24	married	nonprofessional	yes	2	2002	31	7	yes	yes	2002	31	7
+207	ID3534193969	76500	152900	yes	189243	female	yes and no	family	1995	34	married	other	yes	2	1996	35	1	yes	yes	2005	44	10
+208	ID3512324259	76500	152900	yes	78937	female	yes	faith	1995	24	married	nonprofessional	yes	1	2003	32	8	yes	yes	2005	34	10
+209	ID3515613677	76500	152900	yes	72401	female	yes	family	1995	27	married	veterinarian	yes	2	2001	33	6	yes	yes	2006	38	11
+210	ID3509148985	15300	76500	yes	148277	female	yes	family	1995	29	married	professional	yes	2	2003	37	8	yes	yes	2009	43	14
+211	ID3508762311	0	0	no	97233	female	yes	career	1995	34	married	professional	yes	1	1989	28	-6	yes	yes	2010	49	15
+212	ID3522576163	15300	76500	yes	79120	female	yes	family	1995	27	married	professional	yes	1	1998	30	3	yes	yes	2012	44	17
+213	ID3561896922	152900	305800	yes	110462	female	yes	self	1995	39	married	professional	yes	3	1986	30	-9	yes	no	NA	NA	NA
+214	ID3546471595	76500	152900	yes	97096	female	yes	family	1995	27	married	veterinarian	yes	4	1993	25	-2	no	no	NA	NA	NA
+215	ID3527772386	15300	76500	yes	50834	female	yes and no	family	1995	28	married	veterinarian	yes	2	1995	28	0	yes	no	NA	NA	NA
+216	ID3546107301	76500	152900	yes	57312	male	yes	family	1995	29	married	veterinarian	yes	2	1998	32	3	yes	no	NA	NA	NA
+217	ID3546318941	0	0	no	120160	female	yes and no	self	1995	32	married	professional	yes	2	1999	36	4	yes	no	NA	NA	NA
+218	ID3545802457	76500	152900	yes	70225	female	yes and no	family	1995	27	married	other	yes	2	2002	34	7	yes	no	NA	NA	NA
+219	ID3553328336	76500	152900	yes	57379	female	yes	family	1995	26	married	professional	yes	2	2002	33	7	yes	no	NA	NA	NA
+220	ID3603854047	0	0	no	77924	male	yes and no	family	1995	26	married	other	yes	2	2002	33	7	yes	no	NA	NA	NA
+221	ID3571478924	76500	152900	yes	134218	female	yes and no	family	1995	27	married	nonprofessional	yes	1	2005	37	10	yes	no	NA	NA	NA
+222	ID3510943975	0	0	no	133695	female	yes	faith	1995	26	married	nonprofessional	yes	1	2008	39	13	yes	no	NA	NA	NA
+223	ID3545259628	76500	152900	yes	99005	female	yes and no	family	1995	25	married	homemaker	yes	1	2009	39	14	no	no	NA	NA	NA
+224	ID3576962061	76500	152900	yes	64557	female	 	 	1995	29	married	nonprofessional	 	NA	NA	NA	NA	yes	yes	NA	NA	NA
+225	ID3576242198	74200	148400	yes	NA	male	yes	family	1996	25	married	nonprofessional	yes	2	1996	25	0	yes	yes	2000	29	4
+226	ID3549092808	74200	148400	yes	50496	male	yes	faith	1996	31	married	other	yes	2	1999	34	3	yes	yes	2000	35	4
+227	ID3523255566	14800	74200	yes	73556	female	yes	family	1996	26	married	professional	yes	2	2005	35	9	yes	yes	2003	33	7
+228	ID3535190188	14800	74200	yes	64906	female	yes	faith	1996	26	married	homemaker	yes	4	1998	28	2	yes	yes	2005	35	9
+229	ID3525730341	0	0	no	90522	female	yes and no	self	1996	25	unmarried	 	no	NA	NA	NA	NA	yes	yes	2008	37	12
+230	ID3511015531	0	0	no	144749	female	no	self	1996	25	married	nonprofessional	yes	1	2006	35	10	yes	yes	2010	39	14
+231	ID3526910889	74200	148400	yes	74866	female	yes	family	1996	26	married	nonprofessional	yes	3	1991	21	-5	yes	yes	2014	44	18
+232	ID3524517566	148400	296700	yes	76173	female	yes and no	career	1996	33	unmarried	 	yes	1	1986	23	-10	yes	no	NA	NA	NA
+233	ID3508688614	0	0	no	90211	female	yes and no	family	1996	25	married	nonprofessional	yes	2	1998	27	2	yes	no	NA	NA	NA
+234	ID3510247218	74200	148400	yes	114342	female	yes	family	1996	26	married	professional	yes	2	2000	30	4	yes	no	NA	NA	NA
+235	ID3523737079	148400	296700	yes	144901	female	yes and no	family	1996	26	married	other	yes	3	2000	30	4	no	no	NA	NA	NA
+236	ID3511449966	14800	74200	yes	73644	female	 	 	1996	26	married	other	yes	3	2001	31	5	yes	no	NA	NA	NA
+237	ID3513440836	14800	74200	yes	97976	female	yes and no	family	1996	25	married	professional	yes	3	2001	30	5	yes	no	NA	NA	NA
+238	ID3560482041	14800	74200	yes	69784	female	no	family	1996	26	unmarried	 	yes	2	2003	33	7	no	no	NA	NA	NA
+239	ID3599545099	148400	296700	yes	92881	female	yes and no	family	1996	26	married	homemaker	yes	2	2003	33	7	yes	no	NA	NA	NA
+240	ID3523356945	74200	148400	yes	57617	female	yes and no	self	1996	27	married	professional	yes	2	2004	35	8	yes	no	NA	NA	NA
+241	ID3562703466	74200	148400	yes	134761	female	yes and no	family	1996	26	married	other	yes	2	2007	37	11	yes	no	NA	NA	NA
+242	ID3547615140	0	0	no	213115	female	yes	self	1996	26	unmarried	 	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+243	ID3558690026	0	14800	yes	80843	female	yes	family	1996	36	unmarried	 	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+244	ID3508584006	145100	290300	yes	56061	female	yes	faith	1997	27	married	nonprofessional	yes	1	2003	33	6	yes	yes	2000	30	3
+245	ID3509410255	72600	145100	yes	100611	female	yes and no	family	1997	26	married	other	yes	1	2005	34	8	yes	yes	2002	31	5
+246	ID3511312727	14500	72600	yes	92138	female	yes and no	family	1997	27	married	professional	yes	3	2010	40	13	yes	yes	2002	32	5
+247	ID3571417106	72600	145100	yes	55923	male	yes	family	1997	25	married	nonprofessional	yes	3	1997	25	0	yes	yes	2004	32	7
+248	ID3521041095	0	0	no	151090	male	yes	family	1997	27	married	nonprofessional	yes	2	1997	27	0	yes	yes	2005	35	8
+249	ID3542866419	0	0	no	76450	female	yes	family	1997	32	unmarried	 	yes	1	2007	42	10	no	yes	2012	47	15
+250	ID3508765625	0	0	no	107686	female	yes	family	1997	27	married	professional	yes	2	2000	30	3	yes	no	NA	NA	NA
+251	ID3549638069	72600	145100	yes	48503	male	yes and no	family	1997	28	married	nonprofessional	yes	2	2004	35	7	yes	no	NA	NA	NA
+252	ID3508985565	14500	72600	yes	58444	male	yes	family	1997	26	unmarried	 	yes	2	2005	34	8	yes	no	NA	NA	NA
+253	ID3508706151	72600	145100	yes	81249	female	yes	faith	1997	26	married	nonprofessional	yes	2	2006	35	9	yes	no	NA	NA	NA
+254	ID3521975122	72600	145100	yes	95517	female	yes	family	1997	26	married	veterinarian	yes	1	2011	40	14	yes	no	NA	NA	NA
+255	ID3584869743	72600	145100	yes	140009	female	 	 	1997	25	married	nonprofessional	 	NA	NA	NA	NA	yes	yes	NA	NA	NA
+256	ID3586863955	0	14300	yes	42471	male	yes and no	family	1998	27	married	professional	yes	4	2000	29	2	yes	yes	1998	27	0
+257	ID3578534868	71400	142900	yes	44897	female	yes and no	self	1998	25	married	other	yes	2	2006	33	8	yes	yes	2001	28	3
+258	ID3549198210	14300	71400	yes	69862	female	yes	family	1998	25	married	professional	yes	3	2003	30	5	yes	yes	2003	30	5
+259	ID3575863508	71400	142900	yes	88191	male	 	 	1998	28	married	professional	yes	3	NA	NA	NA	yes	yes	2003	33	5
+260	ID3523335749	142900	285700	yes	88553	female	yes	faith	1998	27	married	other	yes	3	2009	38	11	yes	yes	2004	33	6
+261	ID3551435989	71400	142900	yes	67678	male	no	family	1998	26	married	nonveterinarian	yes	1	2001	29	3	yes	yes	2009	37	11
+262	ID3515651851	0	0	no	222623	male	yes	family	1998	31	married	nonprofessional	yes	2	2007	40	9	yes	yes	2011	44	13
+263	ID3548662838	71400	142900	yes	67602	female	yes and no	self	1998	30	married	professional	yes	4	1989	21	-9	yes	yes	2013	45	15
+264	ID3590985196	71400	142900	yes	85687	female	no	faith	1998	27	married	professional	yes	3	2001	30	3	yes	no	NA	NA	NA
+265	ID3605769935	142900	285700	yes	56730	female	yes and no	family	1998	33	married	nonprofessional	yes	2	2001	36	3	yes	no	NA	NA	NA
+266	ID3508712587	0	0	no	102231	female	no	family	1998	26	unmarried	 	yes	2	2006	34	8	yes	no	NA	NA	NA
+267	ID3510092142	71400	142900	yes	97891	female	yes	family	1998	27	married	nonprofessional	yes	2	2009	38	11	yes	no	NA	NA	NA
+268	ID3528987770	71400	142900	yes	62748	female	yes and no	family	1998	30	married	professional	yes	1	2009	41	11	yes	no	NA	NA	NA
+269	ID3508740541	71400	142900	yes	85698	female	yes and no	family	1998	27	married	other	yes	1	2011	40	13	yes	no	NA	NA	NA
+270	ID3521888560	71400	142900	yes	NA	female	 	 	1998	26	married	veterinarian	yes	4	NA	NA	NA	yes	no	NA	NA	NA
+271	ID3523712086	0	0	no	58033	female	yes	family	1998	33	married	other	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+272	ID3523804657	0	0	no	64714	female	yes and no	self	1998	29	unmarried	 	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+273	ID3527994932	14300	71400	yes	72972	female	 	 	1998	26	married	professional	 	NA	NA	NA	NA	yes	yes	NA	NA	NA
+274	ID3549610956	142900	285700	yes	75775	female	yes and no	family	1998	26	married	other	no	NA	NA	NA	NA	no	no	NA	NA	NA
+275	ID3571532916	14000	69900	yes	53709	female	yes	family	1999	30	married	professional	yes	2	2001	32	2	yes	yes	2003	34	4
+276	ID3554855187	69900	139900	yes	68455	female	yes	family	1999	27	married	veterinarian	yes	3	2002	30	3	yes	yes	2003	31	4
+277	ID3561386773	69900	139900	yes	93801	male	yes and no	family	1999	27	unmarried	 	yes	2	2003	31	4	yes	yes	2003	31	4
+278	ID3524403106	0	0	no	71277	female	yes	family	1999	26	married	nonveterinarian	no	NA	NA	NA	NA	yes	yes	2004	31	5
+279	ID3545365141	69900	139900	yes	108356	male	yes	family	1999	28	married	homemaker	yes	2	2004	33	5	yes	yes	2005	34	6
+280	ID3536489919	69900	139900	yes	58475	female	yes	family	1999	25	married	other	yes	4	2002	28	3	yes	yes	2007	33	8
+281	ID3516921464	0	0	no	59584	female	yes and no	family	1999	27	married	nonprofessional	yes	3	2002	30	3	yes	yes	2008	36	9
+282	ID3516952275	14000	69900	yes	77800	female	yes	family	1999	25	married	nonprofessional	yes	2	2003	29	4	yes	yes	2008	34	9
+283	ID3575896367	69900	139900	yes	55552	female	yes and no	self	1999	27	married	nonprofessional	no	NA	NA	NA	NA	yes	yes	2008	36	9
+284	ID3635942630	699300	699300	yes	111186	female	no	family	1999	46	married	nonprofessional	no	NA	NA	NA	NA	yes	yes	2010	57	11
+285	ID3524834135	69900	139900	yes	85666	female	yes	family	1999	34	married	nonprofessional	yes	4	1986	21	-13	yes	yes	2011	46	12
+286	ID3508842388	139900	279700	yes	62573	female	yes	faith	1999	26	married	nonprofessional	yes	3	2002	29	3	yes	no	NA	NA	NA
+287	ID3545490120	139900	279700	yes	NA	female	yes and no	family	1999	29	married	nonprofessional	yes	2	2002	32	3	yes	no	NA	NA	NA
+288	ID3564642103	14000	69900	yes	167585	female	no	family	1999	27	married	professional	yes	3	2003	31	4	yes	no	NA	NA	NA
+289	ID3511908358	14000	69900	yes	93011	female	yes	family	1999	26	married	professional	yes	2	2004	31	5	yes	no	NA	NA	NA
+290	ID3525053891	0	0	no	121402	female	yes	family	1999	25	married	homemaker	yes	1	2004	30	5	yes	no	NA	NA	NA
+291	ID3563619960	69900	139900	yes	54824	female	yes	family	1999	25	married	professional	yes	2	2004	30	5	yes	no	NA	NA	NA
+292	ID3522077543	69900	139900	yes	95828	female	no	family	1999	30	married	nonprofessional	yes	3	2005	36	6	yes	no	NA	NA	NA
+293	ID3510966050	139900	279700	yes	59872	female	yes and no	family	1999	24	married	nonprofessional	yes	3	2006	31	7	yes	no	NA	NA	NA
+294	ID3536736457	69900	139900	yes	66352	female	yes	family	1999	24	married	nonprofessional	yes	2	2006	31	7	yes	no	NA	NA	NA
+295	ID3548255538	139900	279700	yes	62157	female	yes and no	self	1999	25	unmarried	 	yes	2	2006	32	7	yes	no	NA	NA	NA
+296	ID3545252907	139900	279700	yes	86762	female	yes	family	1999	26	married	professional	yes	2	2008	35	9	yes	no	NA	NA	NA
+297	ID3521130528	69900	139900	yes	116969	female	yes	family	1999	26	married	veterinarian	yes	1	2014	41	15	yes	no	NA	NA	NA
+298	ID3545005225	139900	279700	yes	103344	female	yes and no	self	1999	26	married	nonprofessional	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+299	ID3545331104	139900	279700	yes	87291	female	yes and no	self	1999	27	married	professional	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+300	ID3545770221	279700	419600	yes	99590	female	 	 	1999	29	married	nonprofessional	yes	2	NA	NA	NA	yes	no	NA	NA	NA
+301	ID3546367195	69900	139900	yes	99709	female	yes and no	self	1999	29	married	nonprofessional	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+302	ID3562982380	0	13500	yes	86059	male	yes	career	2000	38	married	veterinarian	yes	5	1990	28	-10	yes	yes	2000	38	0
+303	ID3512541116	67700	135300	yes	51498	female	yes	family	2000	35	married	professional	yes	1	2002	37	2	yes	yes	2001	36	1
+304	ID3555057407	0	13500	yes	86059	female	yes	family	2000	25	married	veterinarian	yes	3	2002	27	2	yes	yes	2001	26	1
+305	ID3508655732	67700	135300	yes	62485	male	yes	faith	2000	28	married	professional	yes	5	1997	25	-3	yes	yes	2002	30	2
+306	ID3523404131	13500	67700	yes	78331	female	yes and no	faith	2000	25	married	other	yes	2	2007	32	7	yes	yes	2008	33	8
+307	ID3511029939	0	0	no	58122	female	yes	family	2000	26	married	professional	yes	4	NA	NA	NA	yes	yes	2009	35	9
+308	ID3518462477	13500	67700	yes	131643	male	yes	self	2000	23	married	homemaker	yes	1	2008	31	8	yes	yes	2010	33	10
+309	ID3512226442	67700	135300	yes	303991	male	yes	family	2000	27	married	veterinarian	yes	1	2012	39	12	yes	yes	2011	38	11
+310	ID3530212103	67700	135300	yes	62464	female	yes	family	2000	28	married	nonprofessional	yes	2	2004	32	4	yes	no	NA	NA	NA
+311	ID3576193298	135300	270600	yes	43006	female	yes and no	family	2000	32	married	nonprofessional	yes	3	2004	36	4	yes	no	NA	NA	NA
+312	ID3513295176	67700	135300	yes	61796	female	yes and no	family	2000	26	married	professional	yes	2	2005	31	5	yes	no	NA	NA	NA
+313	ID3539573710	67700	135300	yes	83860	female	yes	family	2000	28	married	nonprofessional	yes	2	2005	33	5	yes	no	NA	NA	NA
+314	ID3531471435	13500	67700	yes	90028	female	yes and no	faith	2000	26	married	nonprofessional	yes	2	2006	32	6	yes	no	NA	NA	NA
+315	ID3576033388	0	0	no	156932	female	yes	family	2000	26	married	professional	yes	3	2006	32	6	yes	no	NA	NA	NA
+316	ID3667118493	67700	135300	yes	97312	female	yes and no	family	2000	25	married	nonprofessional	yes	2	2006	31	6	yes	no	NA	NA	NA
+317	ID3509301921	13500	67700	yes	171851	female	yes and no	family	2000	26	married	nonprofessional	yes	2	2007	33	7	yes	no	NA	NA	NA
+318	ID3508606096	67700	135300	yes	49435	female	no	family	2000	25	married	veterinarian	yes	1	2009	34	9	yes	no	NA	NA	NA
+319	ID3580662474	0	0	no	182116	female	yes	family	2000	27	unmarried	 	yes	1	2012	39	12	no	no	NA	NA	NA
+320	ID3522557200	13500	67700	yes	56862	female	no	family	2000	26	married	veterinarian	no	NA	NA	NA	NA	no	no	NA	NA	NA
+321	ID3546422441	65800	131600	yes	59584	female	yes	family	2001	37	married	professional	yes	2	2006	42	5	yes	yes	2003	39	2
+322	ID3545000998	394700	657900	yes	53883	female	no	self	2001	40	married	professional	no	NA	NA	NA	NA	yes	yes	2003	42	2
+323	ID3571396781	131600	263200	yes	55177	male	yes and no	family	2001	25	unmarried	 	yes	1	2007	31	6	yes	yes	2006	30	5
+324	ID3511794879	131600	263200	yes	56403	female	yes	family	2001	26	married	nonprofessional	yes	2	2004	29	3	yes	yes	2012	37	11
+325	ID3521603019	13200	65800	yes	95263	female	yes and no	family	2001	27	married	professional	yes	2	2004	30	3	yes	yes	2012	38	11
+326	ID3522379653	131600	263200	yes	NA	female	yes	family	2001	26	married	nonveterinarian	yes	2	2005	30	4	yes	yes	2012	37	11
+327	ID3508626434	65800	131600	yes	56408	female	yes and no	family	2001	28	unmarried	 	yes	2	2001	28	0	yes	no	NA	NA	NA
+328	ID3542574124	13200	65800	yes	91385	male	yes	faith	2001	27	married	nonprofessional	yes	2	2001	27	0	yes	no	NA	NA	NA
+329	ID3516882207	65800	131600	yes	116969	female	yes and no	family	2001	31	married	nonprofessional	yes	2	2003	33	2	no	no	NA	NA	NA
+330	ID3528380828	65800	131600	yes	94013	female	yes	family	2001	27	married	nonprofessional	yes	2	2006	32	5	yes	no	NA	NA	NA
+331	ID3590764904	131600	263200	yes	81991	female	yes and no	family	2001	26	unmarried	 	yes	2	2006	31	5	yes	no	NA	NA	NA
+332	ID3509492425	13200	65800	yes	126740	female	yes	faith	2001	25	married	professional	yes	2	2007	31	6	yes	no	NA	NA	NA
+333	ID3591472879	65800	131600	yes	54791	female	yes and no	family	2001	27	married	other	yes	1	2007	33	6	yes	no	NA	NA	NA
+334	ID3527570850	131600	263200	yes	101207	female	yes	family	2001	26	married	nonprofessional	yes	1	2012	37	11	yes	no	NA	NA	NA
+335	ID3513631154	65800	131600	yes	64541	male	 	 	2001	27	married	other	 	NA	NA	NA	NA	yes	yes	NA	NA	NA
+336	ID3543304733	65800	131600	yes	95263	female	yes	family	2001	33	married	professional	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+337	ID3523996257	0	0	no	59760	female	yes	family	2002	35	married	veterinarian	yes	2	2014	47	12	yes	yes	2004	37	2
+338	ID3566018811	64800	129500	yes	57394	male	yes	faith	2002	33	married	nonveterinarian	yes	2	2005	36	3	yes	yes	2005	36	3
+339	ID3549027076	0	0	no	58634	female	yes	faith	2002	25	married	other	no	NA	NA	NA	NA	yes	yes	2005	28	3
+340	ID3535151411	13000	64800	yes	64146	male	yes	family	2002	26	married	other	yes	3	2007	31	5	yes	yes	2006	30	4
+341	ID3511298069	64800	129500	yes	52088	female	 	 	2002	28	married	other	yes	4	2008	34	6	yes	yes	2006	32	4
+342	ID3566829699	129500	259100	yes	57548	female	yes and no	family	2002	28	married	homemaker	yes	2	2006	32	4	yes	yes	2007	33	5
+343	ID3639388159	129500	259100	yes	145143	female	yes and no	family	2002	27	unmarried	 	yes	1	2014	39	12	yes	yes	2008	33	6
+344	ID3523573446	64800	129500	yes	69070	female	yes and no	self	2002	35	married	nonprofessional	yes	2	2003	36	1	yes	yes	2011	44	9
+345	ID3523866887	64800	129500	yes	164395	female	yes	family	2002	27	married	nonprofessional	yes	2	2004	29	2	yes	no	NA	NA	NA
+346	ID3536587973	64800	129500	yes	100961	female	yes and no	family	2002	31	married	nonprofessional	yes	1	2004	33	2	no	no	NA	NA	NA
+347	ID3564982367	13000	64800	yes	80843	male	yes	family	2002	26	married	homemaker	yes	2	2004	28	2	yes	no	NA	NA	NA
+348	ID3514409652	64800	129500	yes	87128	male	yes and no	family	2002	26	married	nonprofessional	yes	2	2006	30	4	yes	no	NA	NA	NA
+349	ID3530985199	64800	129500	yes	72596	female	yes and no	family	2002	27	married	professional	yes	2	2006	31	4	yes	no	NA	NA	NA
+350	ID3508528958	13000	64800	yes	88772	female	yes	family	2002	25	married	other	yes	3	2007	30	5	yes	no	NA	NA	NA
+351	ID3509408167	13000	64800	yes	58048	female	yes and no	family	2002	26	married	nonprofessional	yes	3	2007	31	5	yes	no	NA	NA	NA
+352	ID3511118875	64800	129500	yes	49385	female	yes and no	family	2002	27	married	other	yes	3	2007	32	5	yes	no	NA	NA	NA
+353	ID3561146235	64800	129500	yes	147155	female	yes	faith	2002	27	married	veterinarian	yes	3	2008	33	6	yes	no	NA	NA	NA
+354	ID3546408330	13000	64800	yes	80439	female	yes and no	family	2002	25	married	other	yes	2	2009	32	7	yes	no	NA	NA	NA
+355	ID3608116228	64800	129500	yes	45377	male	no	family	2002	29	married	nonprofessional	yes	3	2010	37	8	yes	no	NA	NA	NA
+356	ID3533696467	129500	259100	yes	89560	female	yes	family	2002	25	married	nonprofessional	yes	2	2011	34	9	yes	no	NA	NA	NA
+357	ID3597010637	13000	64800	yes	50099	female	no	family	2002	25	married	other	yes	1	2011	34	9	yes	no	NA	NA	NA
+358	ID3520244287	129500	259100	yes	74745	female	yes and no	family	2002	28	married	nonprofessional	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+359	ID3522319309	129500	259100	yes	117465	female	yes	family	2002	26	unmarried	 	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+360	ID3523345987	64800	129500	yes	155577	female	yes and no	self	2002	31	married	professional	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+361	ID3561723864	12700	63300	yes	67337	male	no	faith	2003	27	married	professional	yes	3	2003	27	0	yes	yes	2004	28	1
+362	ID3548157914	126600	253200	yes	74972	male	yes	faith	2003	28	married	professional	yes	3	2003	28	0	yes	yes	2005	30	2
+363	ID3523387735	126600	253200	yes	88866	female	yes	self	2003	28	married	professional	yes	2	2004	29	1	yes	yes	2005	30	2
+364	ID3512745744	0	12700	yes	101318	male	yes	family	2003	28	married	nonveterinarian	yes	3	2007	32	4	yes	yes	2007	32	4
+365	ID3603867863	12700	63300	yes	151659	female	yes and no	family	2003	26	married	professional	yes	2	2007	30	4	yes	yes	2007	30	4
+366	ID3516185651	126600	253200	yes	106286	female	yes	family	2003	29	married	nonprofessional	yes	2	2011	37	8	yes	yes	2007	33	4
+367	ID3554036817	12700	63300	yes	86264	male	yes	faith	2003	26	married	homemaker	yes	5	1999	22	-4	yes	yes	2008	31	5
+368	ID3520256156	126600	253200	yes	116969	female	yes	family	2003	32	married	professional	yes	2	2008	37	5	yes	yes	2008	37	5
+369	ID3512379019	63300	126600	yes	72338	female	yes	family	2003	29	married	professional	yes	2	2009	35	6	yes	yes	2008	34	5
+370	ID3575958430	126600	253200	yes	69905	male	yes and no	family	2003	31	married	professional	yes	4	1993	21	-10	yes	no	NA	NA	NA
+371	ID3511859028	126600	253200	yes	57401	female	no	faith	2003	33	married	nonprofessional	yes	2	2002	32	-1	yes	no	NA	NA	NA
+372	ID3519830026	0	0	no	87734	male	yes	family	2003	31	married	professional	yes	4	2003	31	0	yes	no	NA	NA	NA
+373	ID3547767441	0	0	no	90211	male	yes	faith	2003	28	married	veterinarian	yes	3	2005	30	2	yes	no	NA	NA	NA
+374	ID3532268245	126600	253200	yes	65140	female	yes	family	2003	26	married	nonprofessional	yes	1	2008	31	5	yes	no	NA	NA	NA
+375	ID3591052521	63300	126600	yes	75285	female	yes and no	family	2003	25	married	veterinarian	yes	2	2008	30	5	yes	no	NA	NA	NA
+376	ID3513680323	0	0	no	108138	female	yes	family	2003	26	married	professional	yes	2	2010	33	7	yes	no	NA	NA	NA
+377	ID3522919283	63300	126600	yes	89411	male	yes and no	family	2003	27	married	homemaker	yes	2	2010	34	7	yes	no	NA	NA	NA
+378	ID3561790523	126600	253200	yes	63893	female	yes	family	2003	27	married	professional	yes	3	2010	34	7	yes	no	NA	NA	NA
+379	ID3513179956	63300	126600	yes	137123	female	yes	family	2003	31	married	veterinarian	yes	1	2011	39	8	yes	no	NA	NA	NA
+380	ID3541986724	0	0	no	106501	female	yes	family	2003	26	married	nonprofessional	yes	2	2012	35	9	yes	no	NA	NA	NA
+381	ID3508826704	12700	63300	yes	83523	female	yes and no	family	2003	28	married	professional	yes	1	2013	38	10	yes	no	NA	NA	NA
+382	ID3526032690	12700	63300	yes	71767	female	yes	family	2003	25	married	other	yes	1	2015	37	12	yes	no	NA	NA	NA
+383	ID3520971833	63300	126600	yes	48534	female	yes	faith	2003	26	unmarried	 	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+384	ID3521009720	0	0	no	78990	female	yes and no	faith	2003	27	unmarried	 	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+385	ID3521034227	63300	126600	yes	74745	female	yes	family	2003	26	married	nonprofessional	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+386	ID3522763454	63300	126600	yes	98380	female	 	 	2003	34	 	 	 	NA	NA	NA	NA	 	 	NA	NA	NA
+387	ID3576910796	61700	123300	yes	96320	female	yes	family	2004	26	married	veterinarian	yes	2	2010	32	6	yes	yes	2007	29	3
+388	ID3533660497	246600	369900	yes	79374	female	yes and no	family	2004	26	married	veterinarian	yes	3	2006	28	2	yes	yes	2009	31	5
+389	ID3520532471	61700	123300	yes	61734	female	yes and no	family	2004	34	unmarried	 	no	NA	NA	NA	NA	yes	yes	2009	39	5
+390	ID3546407297	123300	246600	yes	65281	female	yes	family	2004	28	unmarried	 	yes	1	2013	37	9	yes	yes	2010	34	6
+391	ID3511026909	12300	61700	yes	61416	female	yes	family	2004	26	married	professional	yes	2	2004	26	0	yes	yes	2013	35	9
+392	ID3562524606	123300	246600	yes	74006	male	no	faith	2004	26	married	nonveterinarian	yes	2	2007	29	3	yes	yes	2013	35	9
+393	ID3510580202	123300	246600	yes	63707	female	yes and no	family	2004	26	married	nonprofessional	yes	1	2009	31	5	yes	yes	2013	35	9
+394	ID3509318075	61700	123300	yes	78842	male	yes	family	2004	27	married	nonveterinarian	yes	2	2011	34	7	yes	yes	2014	37	10
+395	ID3520351425	61700	123300	yes	72063	female	no	faith	2004	31	married	nonprofessional	yes	3	2002	29	-2	yes	no	NA	NA	NA
+396	ID3520907275	61700	123300	yes	64096	female	yes	family	2004	25	married	other	yes	2	2006	27	2	yes	no	NA	NA	NA
+397	ID3549186510	12300	61700	yes	84647	female	yes	family	2004	31	married	professional	yes	2	2006	33	2	yes	no	NA	NA	NA
+398	ID3512589097	61700	123300	yes	92539	female	yes and no	family	2004	29	married	nonprofessional	yes	2	2007	32	3	yes	no	NA	NA	NA
+399	ID3517084221	246600	369900	yes	84028	female	yes and no	family	2004	29	married	nonprofessional	yes	2	2007	32	3	yes	no	NA	NA	NA
+400	ID3523488425	123300	246600	yes	115328	female	yes and no	family	2004	26	married	professional	yes	3	2007	29	3	yes	no	NA	NA	NA
+401	ID3524474188	123300	246600	yes	101567	female	yes and no	family	2004	28	married	nonprofessional	yes	3	2007	31	3	yes	no	NA	NA	NA
+402	ID3551769450	123300	246600	yes	59680	female	yes and no	family	2004	26	married	nonprofessional	yes	2	2009	31	5	no	no	NA	NA	NA
+403	ID3576041235	0	0	no	84183	female	yes	family	2004	26	married	nonprofessional	yes	2	2009	31	5	yes	no	NA	NA	NA
+404	ID3548440270	61700	123300	yes	72830	female	yes	family	2004	24	married	other	yes	1	2010	30	6	yes	no	NA	NA	NA
+405	ID3549124390	0	0	no	317491	female	no	family	2004	29	married	professional	yes	2	2010	35	6	yes	no	NA	NA	NA
+406	ID3536769364	246600	369900	yes	70176	female	yes and no	family	2004	25	married	veterinarian	yes	2	2011	32	7	yes	no	NA	NA	NA
+407	ID3576111803	246600	369900	yes	56537	female	yes and no	family	2004	25	married	veterinarian	yes	2	2011	32	7	yes	no	NA	NA	NA
+408	ID3549160235	123300	246600	yes	84257	female	yes	family	2004	27	married	professional	yes	2	2012	35	8	yes	no	NA	NA	NA
+409	ID3543997032	61700	123300	yes	133045	female	yes	family	2004	25	married	nonprofessional	yes	1	2013	34	9	yes	no	NA	NA	NA
+410	ID3577089786	61700	123300	yes	227948	female	yes	faith	2004	27	married	nonprofessional	yes	1	2013	36	9	yes	no	NA	NA	NA
+411	ID3509179090	61700	123300	yes	106081	female	yes	faith	2004	29	married	professional	yes	1	2014	39	10	yes	no	NA	NA	NA
+412	ID3519979687	61700	123300	yes	54240	male	no	self	2004	27	unmarried	 	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+413	ID3523878795	61700	123300	yes	89275	male	yes	faith	2004	45	unmarried	 	no	NA	NA	NA	NA	no	no	NA	NA	NA
+414	ID3528897522	123300	246600	yes	80018	female	yes and no	career	2004	27	married	nonveterinarian	no	NA	NA	NA	NA	no	no	NA	NA	NA
+415	ID3529551753	123300	246600	yes	73708	female	yes and no	family	2004	42	married	nonprofessional	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+416	ID3509400483	59700	119300	yes	55762	female	yes and no	family	2005	44	married	professional	yes	2	1995	34	-10	yes	yes	2005	44	0
+417	ID3522900130	119300	238700	yes	98380	female	yes and no	family	2005	29	married	professional	yes	2	2008	32	3	yes	yes	2007	31	2
+418	ID3508829400	0	0	no	105457	male	yes	family	2005	26	married	homemaker	yes	3	2006	27	1	yes	yes	2008	29	3
+419	ID3546605397	0	0	no	83967	female	yes	family	2005	25	married	professional	yes	2	2011	31	6	yes	yes	2008	28	3
+420	ID3547441128	119300	238700	yes	55247	female	no	family	2005	27	unmarried	 	no	NA	NA	NA	NA	yes	yes	2008	30	3
+421	ID3517239568	0	0	no	74617	male	yes	family	2005	27	married	other	yes	3	2008	30	3	yes	yes	2009	31	4
+422	ID3532520028	11900	59700	yes	NA	female	yes	faith	2005	26	married	nonprofessional	no	NA	NA	NA	NA	yes	yes	2009	30	4
+423	ID3517553491	238700	358000	yes	47805	female	yes and no	faith	2005	50	married	other	yes	3	1976	21	-29	yes	yes	2010	55	5
+424	ID3545396957	59700	119300	yes	64414	male	yes	family	2005	26	married	homemaker	yes	2	2011	32	6	yes	yes	2010	31	5
+425	ID3554189360	59700	119300	yes	51655	female	yes	faith	2005	26	married	nonprofessional	no	NA	NA	NA	NA	yes	yes	2010	31	5
+426	ID3590612276	59700	119300	yes	51267	female	no	family	2005	29	married	nonveterinarian	yes	2	2007	31	2	yes	yes	2011	35	6
+427	ID3545982414	119300	238700	yes	103941	female	 	 	2005	37	married	nonprofessional	yes	4	NA	NA	NA	yes	yes	2012	44	7
+428	ID3546558346	238700	358000	yes	108986	female	yes	career	2005	28	unmarried	 	no	NA	NA	NA	NA	yes	yes	2014	37	9
+429	ID3506512347	0	11900	yes	67460	female	yes and no	family	2005	43	married	nonprofessional	yes	1	2000	38	-5	yes	no	NA	NA	NA
+430	ID3525237271	11900	59700	yes	72200	female	yes	faith	2005	26	married	nonprofessional	yes	3	2005	26	0	yes	no	NA	NA	NA
+431	ID3511639561	238700	358000	yes	69437	female	yes and no	family	2005	25	married	professional	yes	2	2006	26	1	yes	no	NA	NA	NA
+432	ID3521163359	59700	119300	yes	145416	female	yes	family	2005	31	married	nonprofessional	yes	1	2008	34	3	yes	no	NA	NA	NA
+433	ID3510011022	59700	119300	yes	88054	female	yes	family	2005	27	married	nonprofessional	yes	2	2009	31	4	yes	no	NA	NA	NA
+434	ID3546157390	119300	238700	yes	102271	female	yes and no	family	2005	35	married	other	yes	2	2009	39	4	yes	no	NA	NA	NA
+435	ID3551007123	119300	238700	yes	67950	female	yes	family	2005	26	married	nonprofessional	yes	4	2009	30	4	yes	no	NA	NA	NA
+436	ID3560968786	119300	238700	yes	114599	female	yes and no	family	2005	25	married	veterinarian	yes	3	2009	29	4	yes	no	NA	NA	NA
+437	ID3545442187	119300	238700	yes	72100	female	yes	family	2005	30	married	nonprofessional	yes	2	2010	35	5	no	no	NA	NA	NA
+438	ID3545812886	59700	119300	yes	122597	female	yes	family	2005	25	married	professional	yes	2	2010	30	5	no	no	NA	NA	NA
+439	ID3583235484	119300	238700	yes	57917	female	yes	family	2005	28	married	professional	yes	2	2010	33	5	yes	no	NA	NA	NA
+440	ID3506836268	59700	119300	yes	89033	female	yes and no	family	2005	28	married	nonprofessional	yes	2	2011	34	6	yes	no	NA	NA	NA
+441	ID3575748901	59700	119300	yes	95555	female	yes and no	family	2005	26	married	professional	yes	2	2011	32	6	no	no	NA	NA	NA
+442	ID3520316812	59700	119300	yes	145416	female	yes and no	faith	2005	25	married	nonprofessional	yes	2	2012	32	7	yes	no	NA	NA	NA
+443	ID3510808034	119300	238700	yes	71725	female	yes and no	career	2005	27	married	nonprofessional	yes	2	2013	35	8	yes	no	NA	NA	NA
+444	ID3547320138	11900	59700	yes	54895	female	yes and no	family	2005	26	married	homemaker	yes	1	2014	35	9	yes	no	NA	NA	NA
+445	ID3585350992	238700	358000	yes	86274	female	yes	family	2005	27	married	nonprofessional	yes	1	2014	36	9	yes	no	NA	NA	NA
+446	ID3612170600	11900	59700	yes	56536	female	yes	family	2005	25	married	professional	yes	2	2014	34	9	yes	no	NA	NA	NA
+447	ID3517562509	59700	119300	yes	68819	female	yes and no	family	2005	27	unmarried	 	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+448	ID3520331986	238700	358000	yes	96652	female	yes	faith	2005	35	unmarried	 	no	NA	NA	NA	NA	no	no	NA	NA	NA
+449	ID3536406485	59700	119300	yes	118693	female	 	 	2005	27	married	professional	 	NA	NA	NA	NA	yes	yes	NA	NA	NA
+450	ID3537588950	59700	119300	yes	102526	female	 	 	2005	28	married	veterinarian	 	NA	NA	NA	NA	yes	yes	NA	NA	NA
+451	ID3541346934	358000	596700	yes	69779	male	 	 	2005	27	married	homemaker	yes	5	NA	NA	NA	yes	no	NA	NA	NA
+452	ID3548062580	59700	119300	yes	66572	female	yes and no	self	2005	29	unmarried	 	no	NA	NA	NA	NA	no	no	NA	NA	NA
+453	ID3558392112	59700	119300	yes	83665	female	yes and no	career	2005	26	unmarried	 	no	NA	NA	NA	NA	no	no	NA	NA	NA
+454	ID3557404151	11600	57800	yes	56739	male	yes	family	2006	26	married	veterinarian	yes	2	2013	33	7	yes	yes	2009	29	3
+455	ID3552168892	57800	115600	yes	60516	male	yes and no	faith	2006	26	married	veterinarian	yes	2	2009	29	3	yes	yes	2010	30	4
+456	ID3534012149	115600	231200	yes	137222	female	yes and no	family	2006	26	married	nonveterinarian	yes	3	2012	32	6	no	yes	2014	34	8
+457	ID3508706985	0	0	no	111576	female	yes	family	2006	35	married	other	yes	2	2001	30	-5	yes	no	NA	NA	NA
+458	ID3520382462	115600	231200	yes	NA	male	yes and no	faith	2006	32	married	professional	yes	2	2001	27	-5	yes	no	NA	NA	NA
+459	ID3538178243	231200	346800	yes	43487	female	yes and no	family	2006	30	married	other	yes	2	2003	27	-3	yes	no	NA	NA	NA
+460	ID3547281180	11600	57800	yes	139387	female	yes	family	2006	32	married	professional	yes	3	2008	34	2	yes	no	NA	NA	NA
+461	ID3551636387	57800	115600	yes	74910	male	yes	faith	2006	26	married	veterinarian	yes	2	2009	29	3	yes	no	NA	NA	NA
+462	ID3586885321	11600	57800	yes	106340	female	yes	family	2006	28	married	other	yes	2	2009	31	3	yes	no	NA	NA	NA
+463	ID3563767341	115600	231200	yes	77379	male	yes and no	family	2006	28	married	professional	yes	1	2011	33	5	yes	no	NA	NA	NA
+464	ID3510320783	115600	231200	yes	71062	female	yes and no	family	2006	26	married	nonprofessional	yes	2	2012	32	6	yes	no	NA	NA	NA
+465	ID3566692436	115600	231200	yes	64577	female	yes and no	faith	2006	26	married	other	yes	2	2012	32	6	yes	no	NA	NA	NA
+466	ID3536194586	115600	231200	yes	93757	female	yes and no	family	2006	26	married	professional	yes	1	2013	33	7	yes	no	NA	NA	NA
+467	ID3556255960	115600	231200	yes	113141	female	yes and no	faith	2006	27	married	nonprofessional	yes	1	2014	35	8	no	no	NA	NA	NA
+468	ID3579770916	11600	57800	yes	83399	female	yes	family	2006	27	married	nonprofessional	yes	1	2014	35	8	yes	no	NA	NA	NA
+469	ID3520227066	0	0	no	134761	female	yes	family	2006	24	married	nonprofessional	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+470	ID3520246624	115600	231200	yes	94056	female	yes	faith	2006	25	married	nonprofessional	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+471	ID3521293694	57800	115600	yes	80018	male	yes	family	2006	26	married	nonprofessional	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+472	ID3521574320	57800	115600	yes	89223	female	yes	self	2006	28	married	professional	no	NA	NA	NA	NA	no	no	NA	NA	NA
+473	ID3525172044	57800	115600	yes	131330	female	yes and no	self	2006	28	married	other	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+474	ID3539165299	57800	115600	yes	112683	female	yes	self	2006	30	unmarried	 	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+475	ID3562520847	57800	115600	yes	81050	female	yes	career	2006	31	unmarried	 	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+476	ID3510950171	112400	224700	yes	57483	male	yes	family	2007	25	married	nonveterinarian	yes	4	2006	24	-1	yes	yes	2009	27	2
+477	ID3525249030	56200	112400	yes	81706	female	yes	faith	2007	26	married	nonprofessional	yes	2	2011	30	4	yes	yes	2010	29	3
+478	ID3572051310	56200	112400	yes	65972	male	yes and no	family	2007	28	married	veterinarian	yes	1	2013	34	6	yes	yes	2013	34	6
+479	ID3511682487	112400	224700	yes	70383	female	yes	family	2007	38	married	nonprofessional	yes	2	2006	37	-1	yes	no	NA	NA	NA
+480	ID3521199207	112400	224700	yes	101567	female	yes and no	faith	2007	35	married	homemaker	yes	2	2007	35	0	yes	no	NA	NA	NA
+481	ID3508180238	112400	224700	yes	49853	female	yes and no	family	2007	25	married	nonprofessional	yes	2	2008	26	1	yes	no	NA	NA	NA
+482	ID3519699312	112400	224700	yes	58978	female	yes	family	2007	26	married	professional	yes	3	2008	27	1	yes	no	NA	NA	NA
+483	ID3561860437	112400	224700	yes	99139	male	yes	family	2007	28	married	nonprofessional	yes	2	2008	29	1	no	no	NA	NA	NA
+484	ID3577049060	112400	224700	yes	50684	female	yes	faith	2007	25	married	nonprofessional	yes	2	2008	26	1	yes	no	NA	NA	NA
+485	ID3532244881	112400	224700	yes	208382	female	yes	family	2007	30	married	professional	yes	2	2009	32	2	yes	no	NA	NA	NA
+486	ID3508632886	112400	224700	yes	53048	female	yes and no	family	2007	28	married	nonveterinarian	yes	2	2010	31	3	yes	no	NA	NA	NA
+487	ID3519563533	0	0	no	103175	female	yes	family	2007	26	married	nonprofessional	yes	2	2010	29	3	yes	no	NA	NA	NA
+488	ID3527146405	56200	112400	yes	90371	male	yes and no	family	2007	29	married	veterinarian	yes	3	2010	32	3	yes	no	NA	NA	NA
+489	ID3549150693	112400	224700	yes	70383	female	yes	family	2007	29	married	other	yes	2	2010	32	3	yes	no	NA	NA	NA
+490	ID3520388380	56200	112400	yes	50051	female	yes and no	faith	2007	26	married	professional	yes	1	2012	31	5	yes	no	NA	NA	NA
+491	ID3521590779	112400	224700	yes	72972	female	yes	family	2007	29	married	professional	yes	1	2012	34	5	no	no	NA	NA	NA
+492	ID3525582903	56200	112400	yes	83972	female	yes and no	family	2007	26	married	professional	yes	2	2013	32	6	no	no	NA	NA	NA
+493	ID3550101902	56200	112400	yes	65942	male	yes	family	2007	24	married	nonprofessional	yes	1	2013	30	6	yes	no	NA	NA	NA
+494	ID3523524819	112400	224700	yes	73556	female	yes and no	family	2007	26	married	other	yes	1	2014	33	7	yes	no	NA	NA	NA
+495	ID3551718095	56200	112400	yes	66806	female	yes	family	2007	25	married	nonprofessional	yes	1	2014	32	7	yes	no	NA	NA	NA
+496	ID3520234275	112400	224700	yes	58593	female	yes and no	career	2007	31	unmarried	 	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+497	ID3521241661	112400	224700	yes	94056	female	yes	family	2007	28	married	professional	no	NA	NA	NA	NA	no	no	NA	NA	NA
+498	ID3523704481	337100	561800	yes	86397	female	yes	family	2007	39	married	other	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+499	ID3524259054	224700	337100	yes	45529	female	yes and no	self	2007	31	unmarried	 	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+500	ID3525148537	112400	224700	yes	82752	female	yes and no	family	2007	25	married	professional	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+501	ID3527185352	112400	224700	yes	NA	female	yes	self	2007	29	married	professional	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+502	ID3528020460	0	0	no	75584	female	yes	self	2007	26	married	nonprofessional	no	NA	NA	NA	NA	no	no	NA	NA	NA
+503	ID3546143802	112400	224700	yes	118693	female	yes and no	family	2007	26	married	nonprofessional	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+504	ID3546744897	56200	112400	yes	80555	female	yes	family	2007	26	unmarried	 	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+505	ID3549355685	56200	112400	yes	68802	female	yes and no	family	2007	26	married	nonprofessional	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+506	ID3557387721	324700	541100	yes	120160	female	yes and no	family	2008	34	married	professional	yes	2	2001	27	-7	yes	yes	2008	34	0
+507	ID3548855518	54100	108200	yes	74349	male	yes	faith	2008	30	married	homemaker	yes	2	2012	34	4	yes	yes	2009	31	1
+508	ID3575772493	108200	216500	yes	70495	female	yes	faith	2008	29	married	nonprofessional	yes	2	2011	32	3	yes	yes	2010	31	2
+509	ID3548973324	0	0	no	53051	male	yes	family	2008	29	married	veterinarian	yes	2	2012	33	4	yes	yes	2010	31	2
+510	ID3513054633	108200	216500	yes	68306	female	yes	faith	2008	30	married	nonprofessional	yes	2	1999	21	-9	yes	yes	2012	34	4
+511	ID3552505969	108200	216500	yes	NA	female	yes	family	2008	24	married	nonprofessional	yes	2	2010	26	2	yes	yes	2012	28	4
+512	ID3510940077	108200	216500	yes	71704	female	yes	family	2008	27	married	nonprofessional	yes	2	2011	30	3	yes	yes	2012	31	4
+513	ID3522401338	108200	216500	yes	189847	male	yes	family	2008	28	married	homemaker	yes	2	2007	27	-1	no	yes	2013	33	5
+514	ID3574887543	108200	216500	yes	69221	female	yes	family	2008	30	married	nonprofessional	yes	3	2012	34	4	yes	yes	2014	36	6
+515	ID3525610683	216500	324700	yes	70657	female	yes	family	2008	26	married	other	yes	3	2009	27	1	yes	no	NA	NA	NA
+516	ID3510736355	324700	541100	yes	89705	female	yes	family	2008	28	married	other	yes	2	2011	31	3	yes	no	NA	NA	NA
+517	ID3511419234	10800	54100	yes	100267	male	no	family	2008	27	married	other	yes	1	2011	30	3	yes	no	NA	NA	NA
+518	ID3547594602	108200	216500	yes	60267	female	yes	family	2008	27	married	veterinarian	yes	2	2011	30	3	yes	no	NA	NA	NA
+519	ID3585898343	216500	324700	yes	83423	female	yes and no	family	2008	28	married	professional	yes	2	2011	31	3	yes	no	NA	NA	NA
+520	ID3538268616	216500	324700	yes	64526	female	yes and no	family	2008	26	married	professional	yes	1	2012	30	4	no	no	NA	NA	NA
+521	ID3548689928	108200	216500	yes	60529	male	yes and no	family	2008	27	married	nonprofessional	yes	2	2012	31	4	no	no	NA	NA	NA
+522	ID3535505358	324700	541100	yes	66410	female	yes and no	family	2008	31	married	professional	yes	1	2013	36	5	yes	no	NA	NA	NA
+523	ID3545860540	108200	216500	yes	80082	female	yes and no	family	2008	29	unmarried	 	yes	1	2013	34	5	yes	no	NA	NA	NA
+524	ID3550687332	108200	216500	yes	74863	female	yes	family	2008	28	married	homemaker	yes	2	2013	33	5	yes	no	NA	NA	NA
+525	ID3572057993	54100	108200	yes	84028	female	yes	self	2008	26	married	nonprofessional	yes	1	2013	31	5	yes	no	NA	NA	NA
+526	ID3523430567	216500	324700	yes	68390	female	yes	family	2008	29	unmarried	 	yes	1	2014	35	6	yes	no	NA	NA	NA
+527	ID3523670505	108200	216500	yes	61662	female	yes and no	self	2008	26	married	veterinarian	yes	1	2014	32	6	yes	no	NA	NA	NA
+528	ID3524667393	10800	54100	yes	110723	female	yes and no	family	2008	27	married	nonprofessional	yes	1	2014	33	6	yes	no	NA	NA	NA
+529	ID3547606373	54100	108200	yes	53810	female	yes	faith	2008	26	married	nonprofessional	yes	1	2014	32	6	yes	no	NA	NA	NA
+530	ID3562775071	0	10800	yes	90155	male	yes	family	2008	25	married	nonprofessional	yes	1	2014	31	6	yes	no	NA	NA	NA
+531	ID3528777209	54100	108200	yes	72972	female	yes and no	family	2008	25	married	professional	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+532	ID3545144269	324700	541100	yes	NA	female	yes and no	family	2008	26	married	nonveterinarian	no	NA	NA	NA	NA	no	no	NA	NA	NA
+533	ID3546954273	108200	216500	yes	67652	male	yes	family	2008	27	married	nonprofessional	no	NA	NA	NA	NA	no	no	NA	NA	NA
+534	ID3548045416	108200	216500	yes	63883	female	yes and no	family	2008	26	married	veterinarian	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+535	ID3548983644	108200	216500	yes	81331	female	yes	family	2008	27	married	nonprofessional	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+536	ID3558076643	108200	216500	yes	58456	female	yes and no	family	2008	25	unmarried	 	no	NA	NA	NA	NA	no	no	NA	NA	NA
+537	ID3561740437	54100	108200	yes	65032	male	yes and no	family	2008	28	married	veterinarian	no	NA	NA	NA	NA	no	no	NA	NA	NA
+538	ID3568281237	54100	108200	yes	82758	female	yes	family	2008	24	married	nonveterinarian	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+539	ID3548717427	108600	217200	yes	66579	female	yes and no	family	2009	26	unmarried	 	no	NA	NA	NA	NA	yes	yes	2011	28	2
+540	ID3548968278	54300	108600	yes	58002	female	yes and no	family	2009	27	married	nonveterinarian	no	NA	NA	NA	NA	yes	yes	2012	30	3
+541	ID3547478248	217200	325700	yes	82505	male	yes and no	family	2009	25	married	veterinarian	yes	2	2010	26	1	yes	yes	2013	29	4
+542	ID3566660025	108600	217200	yes	89967	male	yes and no	family	2009	35	married	veterinarian	yes	1	2012	38	3	yes	yes	2013	39	4
+543	ID3592892587	54300	108600	yes	70316	female	yes and no	self	2009	33	married	professional	no	NA	NA	NA	NA	yes	yes	2013	37	4
+544	ID3576259211	108600	217200	yes	86784	female	yes and no	family	2009	27	married	nonprofessional	yes	1	2002	20	-7	no	no	NA	NA	NA
+545	ID3528056394	217200	325700	yes	102637	female	yes	faith	2009	28	married	professional	yes	4	2007	26	-2	yes	no	NA	NA	NA
+546	ID3510705523	108600	217200	yes	62129	male	yes	faith	2009	30	married	professional	yes	3	2009	30	0	yes	no	NA	NA	NA
+547	ID3510250903	325700	542900	yes	103527	female	yes	family	2009	29	married	professional	yes	2	2011	31	2	yes	no	NA	NA	NA
+548	ID3556068540	217200	325700	yes	75502	male	yes	family	2009	29	married	homemaker	yes	2	2011	31	2	yes	no	NA	NA	NA
+549	ID3631194301	217200	325700	yes	39470	female	yes	family	2009	29	married	professional	yes	1	2011	31	2	yes	no	NA	NA	NA
+550	ID3509301295	108600	217200	yes	78822	female	yes	faith	2009	27	married	nonprofessional	yes	1	2013	31	4	yes	no	NA	NA	NA
+551	ID3517894646	54300	108600	yes	94482	female	no	family	2009	26	married	other	yes	1	2013	30	4	no	no	NA	NA	NA
+552	ID3546112416	217200	325700	yes	91529	female	yes and no	family	2009	25	married	nonprofessional	yes	1	2014	30	5	yes	no	NA	NA	NA
+553	ID3547464444	54300	108600	yes	62642	male	yes and no	family	2009	28	married	nonprofessional	yes	1	2014	33	5	yes	no	NA	NA	NA
+554	ID3536022912	217200	325700	yes	81368	female	yes and no	family	2009	28	married	nonprofessional	no	NA	NA	NA	NA	no	no	NA	NA	NA
+555	ID3545705632	0	0	no	123797	female	yes and no	family	2009	26	unmarried	 	no	NA	NA	NA	NA	no	no	NA	NA	NA
+556	ID3557116863	217200	325700	yes	68279	female	yes and no	faith	2009	28	unmarried	 	no	NA	NA	NA	NA	no	no	NA	NA	NA
+557	ID3563429106	213700	320500	yes	112634	male	yes	family	2010	26	married	veterinarian	yes	2	2013	29	3	no	yes	2014	30	4
+558	ID3508813531	213700	320500	yes	97047	female	yes	family	2010	41	married	professional	yes	3	1991	22	-19	no	no	NA	NA	NA
+559	ID3521133836	320500	534200	yes	87046	female	yes	faith	2010	38	married	nonprofessional	yes	3	1998	26	-12	yes	no	NA	NA	NA
+560	ID3512637487	106800	213700	yes	NA	female	yes and no	family	2010	30	married	nonprofessional	yes	2	2005	25	-5	yes	no	NA	NA	NA
+561	ID3549990229	53400	106800	yes	62894	female	yes	family	2010	33	married	professional	yes	2	2008	31	-2	yes	no	NA	NA	NA
+562	ID3508811289	213700	320500	yes	49117	female	yes	family	2010	29	married	other	yes	1	2012	31	2	yes	no	NA	NA	NA
+563	ID3520375579	0	0	no	94056	female	yes	family	2010	25	married	nonprofessional	yes	1	2013	28	3	yes	no	NA	NA	NA
+564	ID3548583631	106800	213700	yes	62661	male	yes	family	2010	32	married	veterinarian	yes	1	2013	35	3	yes	no	NA	NA	NA
+565	ID3575775494	106800	213700	yes	82426	male	yes	faith	2010	27	married	veterinarian	yes	3	2013	30	3	yes	no	NA	NA	NA
+566	ID3531530013	213700	320500	yes	86481	male	yes and no	family	2010	33	married	veterinarian	yes	1	2014	37	4	yes	no	NA	NA	NA
+567	ID3535180632	106800	213700	yes	98354	male	yes and no	faith	2010	30	unmarried	 	yes	1	2014	34	4	no	no	NA	NA	NA
+568	ID3569189281	106800	213700	yes	90480	female	yes	family	2010	30	married	other	yes	1	2014	34	4	no	no	NA	NA	NA
+569	ID3511184134	320500	534200	yes	57044	female	yes and no	family	2010	39	married	other	no	NA	NA	NA	NA	no	no	NA	NA	NA
+570	ID3513491413	53400	106800	yes	102526	female	yes and no	faith	2010	26	unmarried	 	no	NA	NA	NA	NA	no	no	NA	NA	NA
+571	ID3521212619	106800	213700	yes	55405	female	yes	family	2010	28	married	nonprofessional	no	NA	NA	NA	NA	no	no	NA	NA	NA
+572	ID3533592800	106800	213700	yes	73006	female	yes	career	2010	26	unmarried	 	no	NA	NA	NA	NA	no	no	NA	NA	NA
+573	ID3534065944	106800	213700	yes	62698	female	yes and no	family	2010	27	unmarried	 	no	NA	NA	NA	NA	no	no	NA	NA	NA
+574	ID3554735965	106800	213700	yes	54284	female	yes	family	2010	25	married	professional	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+575	ID3561829364	53400	106800	yes	59780	male	yes and no	family	2010	28	unmarried	 	no	NA	NA	NA	NA	no	no	NA	NA	NA
+576	ID3561989770	106800	213700	yes	44445	female	yes	family	2010	26	married	nonprofessional	no	NA	NA	NA	NA	no	no	NA	NA	NA
+577	ID3573079553	106800	213700	yes	56812	female	yes	family	2010	28	married	nonprofessional	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+578	ID3575918670	106800	213700	yes	159101	female	no	family	2010	27	married	veterinarian	no	NA	NA	NA	NA	no	no	NA	NA	NA
+579	ID3578028287	103500	207000	yes	97002	female	yes	family	2011	35	married	nonprofessional	yes	2	2009	33	-2	yes	yes	2011	35	0
+580	ID3577459796	51800	103500	yes	124625	female	yes	family	2011	29	married	nonveterinarian	no	NA	NA	NA	NA	yes	yes	2011	29	0
+581	ID3630144134	103500	207000	yes	73144	male	yes and no	family	2011	29	married	veterinarian	yes	1	2013	31	2	yes	yes	2012	30	1
+582	ID3576021699	103500	207000	yes	64350	female	yes	family	2011	26	unmarried	 	no	NA	NA	NA	NA	yes	yes	2012	27	1
+583	ID3548390220	103500	207000	yes	98813	female	yes and no	self	2011	27	unmarried	 	no	NA	NA	NA	NA	no	yes	2013	29	2
+584	ID3547623705	207000	310600	yes	73065	female	no	family	2011	28	unmarried	 	yes	1	2004	21	-7	no	no	NA	NA	NA
+585	ID3527945987	103500	207000	yes	49018	female	yes and no	family	2011	29	married	other	yes	3	2009	27	-2	yes	no	NA	NA	NA
+586	ID3548250680	103500	207000	yes	55848	male	yes and no	family	2011	27	married	other	yes	2	2010	26	-1	yes	no	NA	NA	NA
+587	ID3536694182	207000	310600	yes	50514	female	no	family	2011	26	married	professional	yes	2	2011	26	0	yes	no	NA	NA	NA
+588	ID3554320427	103500	207000	yes	60756	male	yes	family	2011	27	married	other	yes	2	2011	27	0	yes	no	NA	NA	NA
+589	ID3525320698	517600	517600	yes	69609	female	yes and no	family	2011	32	married	other	yes	2	2013	34	2	yes	no	NA	NA	NA
+590	ID3562797112	103500	207000	yes	58918	male	yes	family	2011	27	married	veterinarian	yes	2	2013	29	2	yes	no	NA	NA	NA
+591	ID3563013820	0	10400	yes	61174	female	yes	family	2011	25	married	nonprofessional	yes	1	2013	27	2	yes	no	NA	NA	NA
+592	ID3511759332	103500	207000	yes	70942	female	yes and no	family	2011	25	married	nonprofessional	yes	1	2014	28	3	yes	no	NA	NA	NA
+593	ID3523394658	51800	103500	yes	102840	female	yes	family	2011	28	married	nonprofessional	yes	1	2014	31	3	no	no	NA	NA	NA
+594	ID3547827911	103500	207000	yes	70641	female	yes	family	2011	26	married	nonprofessional	yes	1	2014	29	3	no	no	NA	NA	NA
+595	ID3548057611	10400	51800	yes	66072	female	yes	family	2011	26	married	other	yes	1	2014	29	3	no	no	NA	NA	NA
+596	ID3533612722	207000	310600	yes	81564	female	yes and no	family	2011	31	married	professional	yes	1	2015	35	4	no	no	NA	NA	NA
+597	ID3516933432	0	0	no	76050	male	yes	family	2011	24	unmarried	 	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+598	ID3520838703	103500	207000	yes	137163	female	yes and no	career	2011	26	married	nonprofessional	no	NA	NA	NA	NA	no	no	NA	NA	NA
+599	ID3521126518	103500	207000	yes	76098	female	yes and no	self	2011	31	unmarried	 	no	NA	NA	NA	NA	no	no	NA	NA	NA
+600	ID3522617704	103500	207000	yes	99238	female	yes	self	2011	26	unmarried	 	no	NA	NA	NA	NA	no	no	NA	NA	NA
+601	ID3523554340	103500	207000	yes	85070	female	yes and no	family	2011	32	married	professional	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+602	ID3527400164	103500	207000	yes	50374	female	yes	faith	2011	28	unmarried	 	no	NA	NA	NA	NA	no	no	NA	NA	NA
+603	ID3531393620	10400	51800	yes	136649	female	yes	family	2011	27	married	nonprofessional	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+604	ID3531538039	10400	51800	yes	62217	female	yes	self	2011	29	married	nonprofessional	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+605	ID3533913467	51800	103500	yes	69297	female	yes and no	family	2011	26	married	professional	no	NA	NA	NA	NA	no	no	NA	NA	NA
+606	ID3549758259	0	0	no	55419	female	yes	family	2011	26	married	nonprofessional	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+607	ID3561958314	103500	207000	yes	49229	female	yes	self	2011	29	unmarried	 	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+608	ID3563889344	207000	310600	yes	58002	female	yes and no	self	2011	28	unmarried	 	no	NA	NA	NA	NA	no	no	NA	NA	NA
+609	ID3575340705	10400	51800	yes	54177	female	yes	faith	2011	27	married	nonprofessional	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+610	ID3551448677	101400	202800	yes	43680	male	yes	community	2012	30	married	professional	no	NA	NA	NA	NA	yes	yes	2012	30	0
+611	ID3559497992	202800	304300	yes	81533	female	yes	family	2012	48	married	other	no	NA	NA	NA	NA	yes	yes	2013	49	1
+612	ID3561384540	101400	202800	yes	75350	female	yes	career	2012	30	unmarried	 	no	NA	NA	NA	NA	yes	yes	2013	31	1
+613	ID3545818914	202800	304300	yes	61062	male	yes and no	family	2012	33	married	homemaker	yes	2	2008	29	-4	yes	no	NA	NA	NA
+614	ID3548517567	101400	202800	yes	51023	male	yes	family	2012	28	married	homemaker	yes	3	2008	24	-4	no	no	NA	NA	NA
+615	ID3554819519	101400	202800	yes	55109	male	yes	faith	2012	32	married	professional	yes	3	2008	28	-4	yes	no	NA	NA	NA
+616	ID3561854048	202800	304300	yes	59722	male	yes	faith	2012	30	married	professional	yes	3	2010	28	-2	yes	no	NA	NA	NA
+617	ID3511331206	202800	304300	yes	62475	female	yes and no	family	2012	26	married	nonprofessional	yes	1	2013	27	1	yes	no	NA	NA	NA
+618	ID3548049732	101400	202800	yes	54093	female	yes and no	family	2012	27	married	nonprofessional	yes	1	2013	28	1	yes	no	NA	NA	NA
+619	ID3546703180	101400	202800	yes	54865	female	yes	family	2012	28	married	veterinarian	yes	1	2014	30	2	yes	no	NA	NA	NA
+620	ID3557878501	50700	101400	yes	66108	male	yes	family	2012	27	married	veterinarian	yes	1	2014	29	2	no	no	NA	NA	NA
+621	ID3558292579	507100	507100	yes	88977	female	yes and no	self	2012	27	married	nonprofessional	yes	1	2014	29	2	yes	no	NA	NA	NA
+622	ID3508885974	10100	50700	yes	100760	male	yes	career	2012	27	unmarried	 	no	NA	NA	NA	NA	no	no	NA	NA	NA
+623	ID3515101704	101400	202800	yes	59357	female	yes	family	2012	26	married	veterinarian	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+624	ID3519205494	50700	101400	yes	NA	female	yes	family	2012	23	unmarried	 	no	NA	NA	NA	NA	no	no	NA	NA	NA
+625	ID3520361078	101400	202800	yes	147881	female	yes	faith	2012	28	unmarried	 	no	NA	NA	NA	NA	no	no	NA	NA	NA
+626	ID3521809828	0	0	no	179900	female	yes and no	faith	2012	28	unmarried	 	no	NA	NA	NA	NA	no	no	NA	NA	NA
+627	ID3523438691	10100	50700	yes	66075	female	yes	self	2012	25	unmarried	 	no	NA	NA	NA	NA	no	no	NA	NA	NA
+628	ID3523851992	0	0	no	63167	female	yes	self	2012	25	unmarried	 	no	NA	NA	NA	NA	no	no	NA	NA	NA
+629	ID3533882814	202800	304300	yes	131414	female	yes and no	family	2012	26	unmarried	 	no	NA	NA	NA	NA	no	no	NA	NA	NA
+630	ID3548003947	202800	304300	yes	NA	female	yes	family	2012	27	married	nonprofessional	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+631	ID3548320001	101400	202800	yes	73362	female	yes and no	self	2012	28	married	professional	no	NA	NA	NA	NA	no	no	NA	NA	NA
+632	ID3579712356	202800	304300	yes	81092	male	yes	family	2012	32	married	veterinarian	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+633	ID3554922426	50000	100000	yes	51216	male	yes	family	2013	32	married	nonprofessional	yes	3	2009	28	-4	no	yes	2013	32	0
+634	ID3548708666	100000	200000	yes	55160	female	yes and no	family	2013	25	married	nonprofessional	no	NA	NA	NA	NA	no	yes	2013	25	0
+635	ID3558201078	300000	500000	yes	67014	female	no	family	2013	29	unmarried	 	no	NA	NA	NA	NA	no	yes	2014	30	1
+636	ID3549189330	100000	200000	yes	NA	female	yes	family	2013	31	married	nonprofessional	yes	1	2006	24	-7	yes	no	NA	NA	NA
+637	ID3550735186	100000	200000	yes	36510	male	yes and no	family	2013	31	married	nonprofessional	yes	3	2009	27	-4	no	no	NA	NA	NA
+638	ID3533283653	0	0	no	122990	male	yes and no	family	2013	29	married	other	yes	1	2014	30	1	yes	no	NA	NA	NA
+639	ID3520304142	100000	200000	yes	78990	female	yes	family	2013	28	married	other	no	NA	NA	NA	NA	no	no	NA	NA	NA
+640	ID3521453873	50000	100000	yes	85606	female	yes	self	2013	34	married	professional	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+641	ID3545948153	200000	300000	yes	79834	female	yes and no	self	2013	26	married	nonprofessional	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+642	ID3547492500	200000	300000	yes	79697	female	yes and no	family	2013	27	unmarried	 	no	NA	NA	NA	NA	no	no	NA	NA	NA
+643	ID3547519691	50000	100000	yes	93849	female	yes and no	family	2013	26	unmarried	 	no	NA	NA	NA	NA	no	no	NA	NA	NA
+644	ID3547931351	100000	200000	yes	59763	female	yes	family	2013	26	married	nonprofessional	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+645	ID3549263077	100000	200000	yes	53170	female	yes	family	2013	27	married	nonprofessional	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+646	ID3557995317	100000	200000	yes	63824	female	yes	family	2013	27	unmarried	 	no	NA	NA	NA	NA	no	no	NA	NA	NA
+647	ID3558303439	100000	200000	yes	63886	male	yes and no	family	2013	26	married	homemaker	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+648	ID3561687633	50000	100000	yes	42878	female	yes	faith	2013	28	married	other	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+649	ID3561862978	0	0	no	47601	female	yes	family	2013	27	married	nonprofessional	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+650	ID3562189923	50000	100000	yes	48511	male	yes	family	2013	26	married	nonprofessional	no	NA	NA	NA	NA	no	no	NA	NA	NA
+651	ID3563495315	100000	200000	yes	59392	female	yes	faith	2013	27	unmarried	 	no	NA	NA	NA	NA	no	no	NA	NA	NA
+652	ID3565328819	50000	100000	yes	51232	female	yes and no	faith	2013	26	married	other	no	NA	NA	NA	NA	no	no	NA	NA	NA
+653	ID3568470218	200000	300000	yes	59392	male	yes	family	2013	30	unmarried	 	no	NA	NA	NA	NA	no	no	NA	NA	NA
+654	ID3575792393	0	0	no	71500	female	no	faith	2013	26	married	veterinarian	no	NA	NA	NA	NA	no	no	NA	NA	NA
+655	ID3592957334	100000	200000	yes	61117	female	yes	self	2013	27	unmarried	 	no	NA	NA	NA	NA	no	no	NA	NA	NA
+656	ID3652590575	300000	500000	yes	70222	female	yes and no	family	2013	27	married	professional	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+657	ID3561855065	295300	492100	yes	NA	female	yes	family	2014	32	married	professional	yes	2	2005	23	-9	yes	yes	2014	32	0
+658	ID3524024984	295300	492100	yes	106529	female	no	family	2014	34	unmarried	 	yes	1	2006	26	-8	no	no	NA	NA	NA
+659	ID3551717439	295300	492100	yes	65401	male	yes	faith	2014	32	married	professional	yes	2	2009	27	-5	yes	no	NA	NA	NA
+660	ID3547817916	49200	98400	yes	59068	male	yes	faith	2014	33	married	veterinarian	yes	3	2010	29	-4	no	no	NA	NA	NA
+661	ID3551655743	9800	49200	yes	59068	female	yes	faith	2014	31	married	veterinarian	yes	3	2010	27	-4	no	no	NA	NA	NA
+662	ID3524579899	49200	98400	yes	62748	female	yes	family	2014	32	married	professional	yes	2	2012	30	-2	yes	no	NA	NA	NA
+663	ID3509607089	98400	196900	yes	74634	male	yes and no	family	2014	38	unmarried	 	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+664	ID3513051874	98400	196900	yes	35724	female	 	 	2014	28	married	nonprofessional	no	NA	NA	NA	NA	no	no	NA	NA	NA
+665	ID3524924334	98400	196900	yes	56170	female	yes and no	self	2014	26	unmarried	 	no	NA	NA	NA	NA	no	no	NA	NA	NA
+666	ID3525135866	98400	196900	yes	112094	female	yes and no	career	2014	28	married	professional	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+667	ID3527964403	0	0	no	82173	female	yes	faith	2014	25	married	professional	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+668	ID3536885448	196900	295300	yes	99248	female	yes	family	2014	29	married	professional	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+669	ID3547643578	196900	295300	yes	62522	male	yes	faith	2014	27	unmarried	 	no	NA	NA	NA	NA	no	no	NA	NA	NA
+670	ID3548033101	98400	196900	yes	65623	female	yes	family	2014	26	unmarried	 	no	NA	NA	NA	NA	no	no	NA	NA	NA
+671	ID3550696265	98400	196900	yes	57273	female	yes and no	faith	2014	26	married	nonprofessional	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+672	ID3557953766	196900	295300	yes	50413	female	no	career	2014	29	unmarried	 	no	NA	NA	NA	NA	no	no	NA	NA	NA
+673	ID3561117784	9800	49200	yes	53173	female	yes and no	family	2014	26	married	veterinarian	no	NA	NA	NA	NA	no	no	NA	NA	NA
+674	ID3561802535	0	0	no	57456	female	yes	family	2014	26	unmarried	 	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+675	ID3562690274	98400	196900	yes	65838	male	yes	faith	2014	27	married	nonprofessional	no	NA	NA	NA	NA	yes	no	NA	NA	NA
+676	ID3563572969	98400	196900	yes	58277	female	yes	family	2014	26	unmarried	 	no	NA	NA	NA	NA	no	no	NA	NA	NA
+677	ID3563739499	98400	196900	yes	49933	female	yes	family	2014	26	unmarried	 	no	NA	NA	NA	NA	no	no	NA	NA	NA
+678	ID3565532149	196900	295300	yes	70601	female	yes	self	2014	25	unmarried	 	no	NA	NA	NA	NA	no	no	NA	NA	NA
+679	ID3507776218	NA	NA	 	61836	female	 	 	NA	NA	 	 	 	NA	NA	NA	NA	 	 	NA	NA	NA
+680	ID3511683877	NA	NA	 	34292	female	 	 	NA	NA	 	 	 	NA	NA	NA	NA	 	 	NA	NA	NA
+681	ID3512264691	NA	NA	 	113408	female	 	 	NA	NA	 	 	 	NA	NA	NA	NA	 	 	NA	NA	NA
+682	ID3512728466	NA	NA	 	122990	female	yes and no	family	NA	NA	married	professional	yes	2	NA	NA	NA	yes	yes	NA	NA	NA
+683	ID3517245018	NA	NA	 	94649	male	 	 	NA	NA	unmarried	 	yes	4	NA	NA	NA	no	no	NA	NA	NA
+684	ID3520227924	NA	NA	 	94056	male	 	 	NA	NA	 	 	 	NA	NA	NA	NA	 	 	NA	NA	NA
+685	ID3523693025	NA	NA	 	71499	female	yes	family	NA	NA	married	professional	yes	1	NA	NA	NA	yes	no	NA	NA	NA
+686	ID3524495160	NA	NA	 	58218	male	 	 	NA	NA	 	 	 	NA	NA	NA	NA	 	 	NA	NA	NA
+687	ID3525873696	NA	NA	 	68785	male	 	 	NA	NA	 	 	 	NA	NA	NA	NA	 	 	NA	NA	NA
+688	ID3526963710	NA	NA	 	91528	female	 	 	NA	NA	 	 	 	NA	NA	NA	NA	 	 	NA	NA	NA
+689	ID3528190877	NA	NA	 	116969	female	 	 	NA	NA	 	 	 	NA	NA	NA	NA	 	 	NA	NA	NA
+690	ID3528817393	NA	NA	 	86803	male	 	 	NA	NA	 	 	 	NA	NA	NA	NA	 	 	NA	NA	NA
+691	ID3545055557	NA	NA	 	48707	female	 	 	NA	NA	 	 	 	NA	NA	NA	NA	 	 	NA	NA	NA
+692	ID3545195633	NA	NA	 	78516	female	 	 	NA	NA	 	 	 	NA	NA	NA	NA	 	 	NA	NA	NA
+693	ID3547617891	NA	NA	 	70383	female	 	 	NA	NA	 	 	 	NA	NA	NA	NA	 	 	NA	NA	NA
+694	ID3551145497	NA	NA	 	65695	female	 	 	NA	NA	 	 	 	NA	NA	NA	NA	 	 	NA	NA	NA
+695	ID3625269739	NA	NA	 	127062	female	 	 	NA	NA	 	 	 	NA	NA	NA	NA	 	 	NA	NA	NA
